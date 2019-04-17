@@ -1,0 +1,2989 @@
+http://tutorials.jenkov.com/maven/maven-tutorial.html
+https://maven.apache.org/guides/index.html
+https://www.udemy.com/spring-framework-video-tutorial/
+https://www.udemy.com/build-an-angular-and-spring-mvc-web-application/
+https://www.udemy.com/hibernate-with-java/
+https://www.udemy.com/junitandmockitocrashcourse/ 
+
+http://tutorials.jenkov.com/maven/maven-tutorial.html
+https://maven.apache.org/guides/index.html
+
+ http://hso-portal.cleancode.com/
+
+alhuck.abdulkaffar@object-frontier.com
+
+pwd : admin
+
+
+https://www.baeldung.com/spring-tutorial
+
+
+
+
+
+{
+  "name": "structure",
+  "version": "0.0.0",
+  "description": "Description for structure",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "@angular/animations": "6.1.9",
+    "@angular/cdk": "6.4.7",
+    "@angular/common": "6.1.9",
+    "@angular/compiler": "6.1.9",
+    "@angular/core": "6.1.9",
+    "@angular/flex-layout": "6.0.0-beta.18",
+    "@angular/forms": "6.1.9",
+    "@angular/http": "6.1.9",
+    "@angular/material": "6.4.7",
+    "@angular/platform-browser": "6.1.9",
+    "@angular/platform-browser-dynamic": "6.1.9",
+    "@angular/router": "6.1.9",
+    "@biesbjerg/ngx-translate-extract": "^2.3.4",
+    "@swimlane/ngx-charts": "^10.0.0",
+    "@trademe/ng-defer-load": "^3.0.0",
+    "@types/lodash": "^4.14.118",
+    "angular-shepherd": "^0.0.2",
+    "classlist.js": "^1.1.20150312",
+    "core-js": "2.5.7",
+    "file-saver": "^2.0.0",
+    "jquery": "3.3.1",
+    "lodash": "^4.17.11",
+    "lodash-decorators": "^6.0.0",
+    "moment": "^2.23.0",
+    "ng-jhipster": "0.5.4",
+    "ngx-cookie": "2.0.1",
+    "ngx-infinite-scroll": "0.5.1",
+    "ngx-moment": "^3.3.0",
+    "ngx-perfect-scrollbar": "^6.3.1",
+    "ngx-toastr": "^9.1.1",
+    "ngx-webstorage": "^2.0.1",
+    "reflect-metadata": "0.1.12",
+    "rxjs": "6.3.3",
+    "rxjs-compat": "6.3.3",
+    "swagger-ui": "2.2.10",
+    "tslib": "1.9.3",
+    "xlsx": "^0.14.1",
+    "zone.js": "0.8.26"
+  },
+  "devDependencies": {
+    "@angular/cli": "~6.1.1",
+    "@angular/compiler-cli": "^6.1.0",
+    "@ngtools/webpack": "6.0.0",
+    "@types/jasmine": "^3.3.1",
+    "@types/jest": "22.2.3",
+    "@types/node": "6.14.3",
+    "@types/selenium-webdriver": "3.0.8",
+    "angular-router-loader": "0.8.5",
+    "angular2-template-loader": "0.6.2",
+    "browser-sync": "2.24.7",
+    "browser-sync-webpack-plugin": "2.2.2",
+    "cache-loader": "1.2.2",
+    "chai": "4.2.0",
+    "codelyzer": "4.2.1",
+    "copy-webpack-plugin": "4.5.1",
+    "css-loader": "0.28.10",
+    "exports-loader": "0.7.0",
+    "extract-text-webpack-plugin": "4.0.0-beta.0",
+    "file-loader": "1.1.11",
+    "fork-ts-checker-webpack-plugin": "0.4.1",
+    "friendly-errors-webpack-plugin": "1.7.0",
+    "generator-jhipster": "5.2.1",
+    "html-loader": "0.5.5",
+    "html-webpack-plugin": "3.2.0",
+    "husky": "0.14.3",
+    "jasmine": "^3.3.1",
+    "jasmine-reporters": "2.2.1",
+    "jest": "22.4.3",
+    "jest-junit": "5.1.0",
+    "jest-preset-angular": "5.2.2",
+    "jest-sonar-reporter": "2.0.0",
+    "lint-staged": "7.0.0",
+    "merge-jsons-webpack-plugin": "1.0.14",
+    "moment-locales-webpack-plugin": "1.0.5",
+    "node-sass": "4.9.0",
+    "postcss-loader": "2.1.1",
+    "prettier": "1.11.1",
+    "protractor": "5.1.2",
+    "protractor-html-reporter-2": "1.0.4",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "protractor-jasmine2-screenshot-reporter": "0.4.0",
+    "proxy-middleware": "0.15.0",
+    "raw-loader": "0.5.1",
+    "rimraf": "2.6.1",
+    "sass-loader": "7.0.1",
+    "simple-progress-webpack-plugin": "1.1.2",
+    "style-loader": "0.20.3",
+    "tapable": "1.0.0",
+    "terser-webpack-plugin": "1.0.0",
+    "thread-loader": "1.1.5",
+    "to-string-loader": "1.1.5",
+    "ts-loader": "4.0.1",
+    "ts-node": "5.0.1",
+    "tslint": "5.9.1",
+    "tslint-config-prettier": "1.9.0",
+    "tslint-loader": "3.6.0",
+    "typescript": "2.9.2",
+    "webpack": "4.8.0",
+    "webpack-cli": "2.1.3",
+    "webpack-dev-server": "3.1.4",
+    "webpack-merge": "4.1.2",
+    "webpack-notifier": "1.6.0",
+    "webpack-visualizer-plugin": "0.1.11",
+    "workbox-webpack-plugin": "3.2.0",
+    "write-file-webpack-plugin": "4.2.0"
+  },
+  "engines": {
+    "node": ">=8.9.0",
+    "yarn": ">=1.3.2"
+  },
+  "lint-staged": {
+    "src/**/*.{ts}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "scripts": {
+    "extract-translations": "ngx-translate-extract --input ./src/main/webapp/app --output ./src/main/webapp/app/assets/i18n/fr.json --clean --sort --format namespaced-json --marker _",
+    "precommit": "lint-staged",
+    "prettier:format": "yarn prettier --write 'src/**/*.{ts,css,scss}'",
+    "lint": "tslint --project tsconfig.json -e 'node_modules/**'",
+    "lint:fix": "yarn run lint --fix",
+    "ngc": "ngc -p tsconfig-aot.json",
+    "cleanup": "rimraf build/{aot,www}",
+    "clean-www": "rimraf build//www/app/{src,build/}",
+    "e2e": "tsc -p e2e/tsconfig.json && protractor e2e/conf.js",
+    "postinstall": "webdriver-manager update --gecko false",
+    "start": "yarn run webpack:dev",
+    "serve": "yarn run start",
+    "build": "yarn run webpack:prod",
+    "test": "yarn run lint && jest --coverage --logHeapUsage -w=2 --config src/test/javascript/jest.conf.js",
+    "test:watch": "yarn test --watch --clearCache",
+    "webpack:dev": "yarn run webpack-dev-server --config webpack/webpack.dev.js --inline --hot --port=9060 --watch-content-base --env.stats=minimal",
+    "webpack:dev-verbose": "yarn run webpack-dev-server --config webpack/webpack.dev.js --inline --hot --port=9060 --watch-content-base --profile --progress --env.stats=normal",
+    "webpack:build:main": "yarn run webpack --config webpack/webpack.dev.js --env.stats=normal",
+    "webpack:build": "yarn run cleanup && yarn run webpack:build:main",
+    "webpack:prod:main": "yarn run webpack --config webpack/webpack.prod.js --profile",
+    "webpack:prod": "yarn run cleanup && yarn run webpack:prod:main && yarn run clean-www",
+    "webpack:test": "yarn run test",
+    "webpack-dev-server": "node --max_old_space_size=4096 node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "webpack": "node --max_old_space_size=4096 node_modules/webpack/bin/webpack.js"
+  },
+  "jestSonar": {
+    "reportPath": "build/test-results/jest",
+    "reportFile": "TESTS-results-sonar.xml"
+  }
+}
+
+
+
+assessments
+<div class="section">
+
+    <div class="section-header">
+        <h1 class="mat-h1">{{ 'ASSESSMENTS.HEADING' | translate }}</h1>
+        <div class="mat-body instructions">{{ 'ASSESSMENTS.INSTRUCTIONS' | translate }}</div>
+    </div>
+
+    <div class="panel">
+        <div class="filters">
+            <div>
+                <h3 class="mat-h3">{{'LABELS.SEARCH' | translate}}</h3>
+            </div>
+
+            <div fxLayout="row" fxLayoutAlign="space-between end" style="margin-top:-30px;" fxLayout.xs="column" fxLayoutAlign.xs="space-between start">
+
+                <mat-form-field fxFlex="75" fxFlex.xs="100">
+                    <div class="mat-body-2 filter-label">{{'ASSESSMENTS.ASSESSMENT-NAME' | translate}}</div>
+                    <input matInput #filter autocomplete="off">
+                </mat-form-field>
+                <div fxLayout="row" style="margin-bottom: 1.3%;">
+                        <button mat-flat-button class="action-button reset-button" style="margin:0 1% auto;" [disabled]="getResetStatus()" (click)="onResetAssessmentManual()">{{'LABELS.RESET'
+                            | translate }}</button>
+                        <button mat-flat-button class="action-button filter-button" (click)="onApplyAssessmentManualFilter()">{{'LABELS.APPLY'
+                            | translate }}</button>
+                    </div>
+                <!--<button mat-flat-button class="action-button apply-button">Apply</button>-->
+            </div>
+        </div>
+    </div>
+</div>
+<mat-divider></mat-divider>
+
+<!-- actions -->
+<!--
+<div fxLayout="row" fxLayoutAlign="start end" fxLayoutGap="20px" class="actions-btn">
+    <div>
+        <button mat-flat-button class="action-button button-primary" (click)="add()">
+            <mat-icon aria-label="Add">add_circle</mat-icon> {{'ASSESSMENT-MANUALS.CREATE_ASSESSMENT' | translate }}
+        </button>
+    </div>
+</div>
+-->
+
+<div class="table-container" fxLayout="column">
+
+    <mat-table [dataSource]="dataSource" style="width: 100%;" matSort matSortActive="siteName" matSortDisableClear matSortDirection="asc">
+
+        <!-- Site Column -->
+        <ng-container matColumnDef="site">
+            <mat-header-cell *matHeaderCellDef mat-sort-header="site.name"> {{'ASSESSMENTS.SITE' | translate}} </mat-header-cell>
+            <mat-cell *matCellDef="let assessment">
+                <div fxLayout="column">
+                    <div fxLayout="row">
+                        <button mat-button class="assessment-site" [routerLink]="['/attestation']" [queryParams]="{'selectedSiteIds': assessment.siteId, 'expandFirstChild': false}">
+                            {{assessment.siteName}}
+                        </button>
+                    </div>
+                </div>
+            </mat-cell>
+        </ng-container>
+
+        <!-- Name Column -->
+        <ng-container matColumnDef="name">
+            <mat-header-cell *matHeaderCellDef mat-sort-header="name"> {{'ASSESSMENTS.NAME' | translate}} </mat-header-cell>
+            <mat-cell *matCellDef="let assessment">
+
+                <div fxLayout="column" fxLayoutAlign="start">
+                    <div fxLayout="row">
+                        <span class="assessment-name" style="line-height:40px;">{{assessment.name ? assessment.name : ('ATTESTATION.DEFAULT_NAME' | translate)}}</span>
+                        <!--<span>{{ formatOpenTimeForAssessment(assessment) }}</span>-->
+                    </div>
+                </div>
+
+            </mat-cell>
+        </ng-container>
+
+        <!-- Type Column -->
+        <ng-container matColumnDef="type">
+            <mat-header-cell *matHeaderCellDef> {{'ASSESSMENTS.TYPE' | translate}} </mat-header-cell>
+            <mat-cell *matCellDef="let assessment">
+                <div fxLayout="column" fxLayoutAlign="start">
+                    <div fxLayout="row">
+                        <span class="assessment-type" style="line-height:40px;">{{ assessment.assessmentType }}</span>
+                    </div>
+                </div>
+            </mat-cell>
+        </ng-container>
+
+        <!-- Status Column -->
+        <ng-container matColumnDef="status">
+            <mat-header-cell *matHeaderCellDef> {{'ASSESSMENTS.STATUS' | translate}} </mat-header-cell>
+            <mat-cell *matCellDef="let assessment">
+                <div fxLayout="column" fxLayoutAlign="start">
+                    <div fxLayout="row">
+                        <div *ngIf="isOpen(assessment); else closed" class="assessment-status">OPEN</div>
+                        <ng-template #closed><div class="assessment-status assessment-status-closed">CLOSED</div></ng-template>
+                    </div>
+                </div>
+            </mat-cell>
+        </ng-container>
+
+        <!-- Ratings Column -->
+        <ng-container matColumnDef="ratingCounts">
+            <mat-header-cell *matHeaderCellDef> {{'ASSESSMENTS.RATINGS' | translate}}<br/>
+                Assigned | Unrated | Rated
+            </mat-header-cell>
+            <mat-cell *matCellDef="let assessment">
+                <div fxLayout="column" fxLayoutAlign="start">
+                    <div fxLayout="row">
+                        <div class="rating-count assigned" fxLayout="row" fxLayoutAlign="center center" matTooltip="Assigned">{{ assessment.assignmentCount}}</div>
+                        <div fxLayout="row" fxLayoutAlign="center center">&nbsp;|&nbsp;</div>
+                        <div class="rating-count not-rated" fxLayout="row" fxLayoutAlign="center center" matTooltip="Not Rated">{{ assessment.notRatedCount}}</div>
+                        <div fxLayout="row" fxLayoutAlign="center center">&nbsp;|&nbsp;</div>
+                        <div class="rating-count" [ngClass]="{'met-none': assessment.metCount==0, 'met': assessment.metCount>0}" fxLayout="row" fxLayoutAlign="center center" matTooltip="Met">{{ assessment.metCount}}</div>
+                        <div class="rating-count" [ngClass]="{'unmet-none': assessment.unmetCount==0, 'unmet': assessment.unmetCount>0}" fxLayout="row" fxLayoutAlign="center center" matTooltip="Unmet">{{ assessment.unmetCount}}</div>
+                        <div class="rating-count" [ngClass]="{'not-applicable-none': assessment.naCount==0, 'not-applicable': assessment.naCount>0}" fxLayout="row" fxLayoutAlign="center center" matTooltip="Not Applicable">{{ assessment.naCount}}</div>
+
+                    </div>
+                </div>
+            </mat-cell>
+        </ng-container>
+
+        <!-- Start Column -->
+        <ng-container matColumnDef="start">
+            <mat-header-cell *matHeaderCellDef mat-sort-header="startDate"> {{'ASSESSMENTS.START' | translate}} </mat-header-cell>
+            <mat-cell *matCellDef="let assessment">
+                <div fxLayout="column" fxLayoutAlign="start">
+                    <div fxLayout="row">
+                        <span class="assessment-start" style="line-height:40px;">
+                            {{ assessment.startDate | amUtc | amLocal | amDateFormat:'YYYY-MM-DD' }}
+                        </span>
+                    </div>
+                </div>
+            </mat-cell>
+        </ng-container>
+
+        <!-- End Column -->
+        <ng-container matColumnDef="end">
+            <mat-header-cell *matHeaderCellDef mat-sort-header="endDate"> {{'ASSESSMENTS.END' | translate}} </mat-header-cell>
+            <mat-cell *matCellDef="let assessment">
+                <div fxLayout="column" fxLayoutAlign="start">
+                    <div fxLayout="row">
+                        <span class="assessment-end" style="line-height:40px;">
+                            {{ assessment.endDate | amUtc | amLocal | amDateFormat:'YYYY-MM-DD' }}
+                        </span>
+                    </div>
+                </div>
+            </mat-cell>
+        </ng-container>
+
+        <!-- actions -->
+        <ng-container matColumnDef="actions">
+            <mat-header-cell *matHeaderCellDef fxLayoutAlign="end center">
+            </mat-header-cell>
+
+            <mat-cell *matCellDef="let assessment" fxLayoutAlign="end center">
+                <button mat-icon-button color="primary" (click)="edit(assessment)">
+                    <mat-icon aria-label="{{'LABELS.EDIT' | translate}}">edit</mat-icon>
+                </button>
+                <button mat-icon-button color="primary" (click)="delete(assessment)" [disabled]="assessment.assignmentCount != assessment.notRatedCount">
+                    <mat-icon aria-label="{{'LABELS.DELETE' | translate}}">delete</mat-icon>
+                </button>
+            </mat-cell>
+        </ng-container>
+
+        <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: displayedColumns;" (click)="selection.toggle(row)"></mat-row>
+    </mat-table>
+
+    <!--<div class="no-results" [style.display]="dataSource.renderedData.length == 0 ? '' : 'none'">-->
+    <!--<span class="mat-body-1">No results</span>-->
+    <!--</div>-->
+
+</div>
+
+<mat-paginator #paginator [length]="assessments?.length" [pageIndex]="0" [pageSize]="10" [pageSizeOptions]="[5, 10, 25, 100]"></mat-paginator>
+
+
+import { Component, OnInit, ViewChild, ElementRef, Inject, LOCALE_ID } from '@angular/core';
+import {
+    MatPaginator,
+    MatSort,
+    MatDialog,
+    MatTableDataSource
+} from '@angular/material';
+import { SelectionModel } from '@angular/cdk/collections';
+
+import 'rxjs/add/operator/mergeMap';
+import 'rxjs/add/operator/map';
+
+import { AddDialogComponent } from './dialogs/add/add.dialog.component';
+import { EditDialogComponent } from './dialogs/edit/edit.dialog.component';
+import { DeleteDialogComponent } from './dialogs/delete/delete.dialog.component';
+import { IAssessment } from 'app/shared/model/assessment.model';
+import { AssessmentService } from 'app/services/assessment.service';
+import * as moment from 'moment';
+import { formatDate } from '@angular/common';
+import { ICriteriaGroup } from 'app/shared/model/criteria-group.model';
+
+@Component({
+    selector: 'hso-assessments',
+    templateUrl: './assessments.component.html',
+    styleUrls: ['assessments.scss']
+})
+export class AssessmentsComponent implements OnInit {
+    displayedColumns: string[] = ['site', 'name', 'type', 'status', 'ratingCounts', 'start', 'end', 'actions'];
+
+    assessments: IAssessment[];
+    dataSource: MatTableDataSource<IAssessment>;
+    selection = new SelectionModel<IAssessment>(false, []);
+
+    index: number;
+    id: number;
+
+    JSON = JSON;
+
+    @ViewChild(MatPaginator) paginator: MatPaginator;
+    @ViewChild(MatSort) sort: MatSort;
+    @ViewChild('filter') filter: ElementRef;
+
+    constructor(
+        @Inject(LOCALE_ID) private locale: string,
+        private assessmentService: AssessmentService,
+        private dialog: MatDialog) {
+    }
+
+    ngOnInit() {
+        this.getAllAssessments();
+    }
+
+    getResetStatus() {
+        if (this.filter.nativeElement.value === '') {
+            return true;
+        }
+        return false;
+    }
+
+    onResetAssessmentManual() {
+        this.filter.nativeElement.value = '';
+        this.onApplyAssessmentManualFilter();
+    }
+
+    onApplyAssessmentManualFilter() {
+
+        if (!this.dataSource) { return; }
+        this.dataSource.filter = this.filter.nativeElement.value;
+    }
+
+    getAllAssessments() {
+        this.assessmentService.findAllWithManagementInfo({
+            // sort: this.sort.active + ',' + this.sort.direction
+            sort: 's.name,asc'
+        })
+            .map(data => data.body['content'])
+            .subscribe(data => {
+                // console.log('data: ' + JSON.stringify(data));
+                this.assessments = data;
+                this.dataSource = new MatTableDataSource(this.assessments);
+                this.dataSource.paginator = this.paginator;
+                this.dataSource.sort = this.sort;
+            });
+    }
+
+    isOpen(assessment): boolean {
+        const now = moment();
+        const start = moment(assessment.startDate);
+        const end = moment(assessment.endDate);
+        return now.isAfter(start) && now.isBefore(end) ;
+    }
+
+    formatOpenTimeForAssessment(assessment): string {
+        const now = moment();
+        const start = moment(assessment.startDate);
+        const end = moment(assessment.endDate);
+
+        if (now.isBefore(start)) {
+            return "Opens " + formatDate(new Date(assessment.startDate), 'medium', this.locale);
+        } else if (now.isAfter(end)) {
+            return "Closed " + formatDate(new Date(assessment.endDate), 'medium', this.locale);
+        } else {
+            const daysUntilEnd = end.diff(now, 'days');
+
+            // assessment is open but warn user is the end is close
+            if (daysUntilEnd <= 5) {
+                if (daysUntilEnd < 1) {
+                    const hoursUntilEnd = end.diff(now, 'hours');
+                    if (hoursUntilEnd == 0) {
+                        const minutesUntilEnd = end.diff(now, 'minutes');
+                        return "Closes in " + minutesUntilEnd + " " + (minutesUntilEnd == 1 ? 'minute' : 'minutes') + " on " + formatDate(new Date(assessment.endDate), 'medium', this.locale);
+                    }
+                    return "Closes in " + hoursUntilEnd + " " + (hoursUntilEnd == 1 ? 'hour' : 'hours') + " on " + formatDate(new Date(assessment.endDate), 'medium', this.locale);
+                } else {
+                    return "Closes in " + daysUntilEnd + " " + (daysUntilEnd == 1 ? 'day' : 'days') + " on " + formatDate(new Date(assessment.endDate), 'medium', this.locale);
+                }
+            }
+        }
+        // assessment is open - no indication required
+        return "";
+    }
+
+    add() {
+        // const dialogRef = this.dialog.open(AddDialogComponent, {
+        //     data: { groupType: CriteriaGroupType.ASSESSMENT_MANUAL }
+        // });
+        //
+        // dialogRef.afterClosed().subscribe(criteriaGroup => {
+        //     if (criteriaGroup) {
+        //         // make a copy of the current data for the data source and add the new one to the front
+        //         const criteriaGroups = Object.assign([], this.dataSource.data);
+        //         criteriaGroups.unshift(criteriaGroup);
+        //
+        //         // resetting the entire array seems to be the only way to get it to refresh
+        //         this.dataSource.data = criteriaGroups;
+        //     }
+        // });
+    }
+
+    edit(assessment: IAssessment) {
+        const dialogRef = this.dialog.open(EditDialogComponent, {
+            data: Object.assign({}, assessment)
+        });
+
+        dialogRef.afterClosed().subscribe(editedAssessment => {
+            if (editedAssessment) {
+                this.replaceAssessment(editedAssessment);
+            }
+        });
+    }
+
+    delete(assessment: IAssessment) {
+        this.id = assessment.id;
+        const dialogRef = this.dialog.open(DeleteDialogComponent, {
+            data: Object.assign({}, assessment)
+        });
+
+        dialogRef.afterClosed().subscribe(assessmentId => {
+            if (assessmentId) {
+                // make a copy of the current data for the data source and find the one that was changed
+                const assessments = Object.assign([], this.dataSource.data);
+                const foundIndex = assessments.findIndex(x =>
+                    (x !== undefined) && x.hasOwnProperty('id') && assessment.hasOwnProperty('id') && x.id === assessment.id
+                );
+                assessments.splice(foundIndex, 1);
+
+                this.dataSource.data = assessments;
+            }
+        });
+    }
+
+    replaceAssessment(assessment: IAssessment) {
+        // make a copy of the current data for the data source and find the one that was changed
+        const assessments = Object.assign([], this.dataSource.data);
+        const foundIndex = assessments.findIndex(x =>
+            (x !== undefined) && x.hasOwnProperty('id') && assessment.hasOwnProperty('id') && x.id === assessment.id
+        );
+        assessments[foundIndex].name = assessment.name;
+        assessments[foundIndex].startDate = assessment.startDate;
+        assessments[foundIndex].endDate = assessment.endDate;
+    }
+
+}
+
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import { Routes, RouterModule } from '@angular/router';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { MatRadioModule } from '@angular/material/radio';
+
+import { StructureSharedModule } from 'app/shared';
+import { ASSESSMENTS_ROUTE, AssessmentsComponent } from './';
+
+import { CriteriaGroupService } from 'app/services/criteria-group.service';
+
+import { AddDialogComponent } from './dialogs/add/add.dialog.component';
+import { EditDialogComponent } from './dialogs/edit/edit.dialog.component';
+import { DeleteDialogComponent } from './dialogs/delete/delete.dialog.component';
+
+// tslint:disable-next-line:max-line-length
+import { ClinicalServiceStandardsCriteriaTreeComponent } from 'app/shared/criteria-management/clinical-service-standards-criteria-tree/clinical-service-standards-criteria-tree.component';
+import { AssessmentManualReadOnlyTreeComponent } from 'app/shared/criteria-management/assessment-manual-read-only-tree/assessment-manual-read-only-tree.component';
+
+const AssessmentRoutes: Routes = [
+    ASSESSMENTS_ROUTE,
+];
+
+@NgModule({
+    imports: [
+        StructureSharedModule,
+        FormsModule,
+        ReactiveFormsModule,
+        RouterModule.forChild(AssessmentRoutes),
+        MatRadioModule
+    ],
+    declarations: [
+        AssessmentsComponent,
+        AddDialogComponent,
+        EditDialogComponent,
+        DeleteDialogComponent,
+    ],
+    schemas: [CUSTOM_ELEMENTS_SCHEMA],
+    entryComponents: [
+        AddDialogComponent,
+        EditDialogComponent,
+        DeleteDialogComponent,
+    ],
+    providers: [
+        CriteriaGroupService,
+    ],
+})
+export class AssessmentsModule {}
+
+import { Route } from '@angular/router';
+
+import { UserRouteAccessService } from 'app/core';
+import { AssessmentsComponent } from './';
+
+export const ASSESSMENTS_ROUTE: Route = {
+    path: 'assessments',
+    component: AssessmentsComponent,
+    data: {
+        authorities: ['ROLE_ADMIN', 'ROLE_SUPER_ADMIN'],
+        pageTitle: 'structureApp.criteriaGroup.home.title'
+    },
+    canActivate: [UserRouteAccessService]
+};
+
+@import '../../content/scss/colours.scss';
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+.filter {
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mat-column-site {
+    flex: 0 1 auto;
+}
+
+.service-list {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.loading-shade {
+    margin-left: 20px;
+}
+
+::ng-deep .mat-checkbox-checked .mat-checkbox-background {
+    background-color: rgba(46, 163, 242, 0.87) !important;
+}
+
+::ng-deep .mat-checkbox-indeterminate .mat-checkbox-background {
+    background-color: rgba(46, 163, 242, 0.87) !important;
+}
+
+.manual-name {
+}
+
+.manual-description {
+    color: #808080;
+    max-height: 2em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.edit-manual-link.mat-flat-button.mat-primary {
+    padding: 0px;
+    background-color: white;
+    font-weight: 600;
+    text-decoration: underline;
+    color: $hso-cyan;
+}
+
+.assessment-status {
+    background-color: $hso-green;
+    color: white;
+    padding: 8px 10px;
+    min-width: 75px;
+    text-align: center;
+}
+
+.assessment-site {
+    font-size: 15px;
+    line-height: 40px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.assessment-status-closed {
+    background-color: $hso-light-red;
+}
+
+/* Mat table */
+.no-results {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 14px;
+    font-size: 14px;
+}
+
+//size the table columns
+.mat-cell:nth-child(1), .mat-header-cell:nth-child(1) {
+    flex: 0 2 25%;
+}
+
+.mat-cell:nth-child(2), .mat-header-cell:nth-child(2) {
+    flex: 0 1 25%;
+}
+
+.mat-cell:nth-child(3), .mat-header-cell:nth-child(3) {
+    flex: 0 2 150px;
+}
+
+
+.mat-cell:nth-child(4), .mat-header-cell:nth-child(4) {
+    flex: 0 0 120px;
+}
+
+.mat-cell:nth-child(5), .mat-header-cell:nth-child(5) {
+    flex: 0 0 250px;
+}
+
+.mat-cell:nth-child(6), .mat-header-cell:nth-child(6) {
+    flex: 0 1 110px;
+}
+
+.mat-cell:nth-child(7), .mat-header-cell:nth-child(7) {
+    flex: 0 1 110px;
+}
+
+.mat-cell:nth-child(8), .mat-header-cell:nth-child(8) {
+    flex: 0 0 110px;
+}
+
+.mat-chip-list-wrapper {
+    margin: 0px !important;
+}
+
+.filter-button {
+    margin-left: 10px;
+}
+
+.rating-count {
+    width:42px;
+    height: 30px;
+    color: white;
+    border: 1px solid white;
+    cursor: default;
+}
+
+.met { background-color: $hso-green; }
+.met-none { background-color: rgba(117, 147, 23, 0.25)}
+
+.unmet { background-color: $hso-red; }
+.unmet-none { background-color: rgba(138, 25, 29, 0.25)}
+
+.not-applicable { background-color: #ccad10; }
+.not-applicable-none { background-color: rgba(204, 173, 16, 0.25)}
+
+.not-rated {
+    background-color: #e8e8e8;
+    color: #2e2e2e;
+}
+.assigned {
+    background-color: #fcfbf7;
+    color: #2e2e2e;
+}
+
+attestattion
+<div class="section">
+    <div class="section-header">
+        <h1 class="mat-h1">{{'ATTESTATION.ASSIGN' | translate}}</h1>
+        <div class="mat-body assign-instructions-1">{{'ATTESTATION.CHOOSE_SITES' | translate }}</div>
+    </div>
+    <hso-attestation-filter (filter)="changeSearch($event)"></hso-attestation-filter>
+</div>
+
+<hso-sticky-header>
+    <div class="section">
+      <div class="panel">
+        <div fxLayout="row"
+             fxLayoutAlign="space-between center"
+             fxLayout.xs="column"
+             fxLayoutAlign.xs="space-between start"
+             fxLayoutGap="20px">
+          <div class="mat-body assign-instructions-2" fxFlex="grow">{{'ATTESTATION.DESCRIPTION' | translate }}</div>
+          <button mat-flat-button class="action-button apply-button" [disabled]="sharedCriterionRatingSelection.isEmpty()" (click)="openAssignDialog()"
+                  [matBadge]="sharedCriterionRatingSelection.selected.length"
+                  matBadgePosition="before"
+                  [matBadgeHidden]="sharedCriterionRatingSelection.isEmpty()">{{'LABELS.ASSIGN' | translate}}</button>
+          <button mat-flat-button class="action-button apply-button" [disabled]="sharedCriterionRatingSelection.isEmpty()" (click)="sharedCriterionRatingSelection.clear()">
+            {{'ATTESTATION.CLEAR' | translate}}
+          </button>
+        </div>
+      </div>
+    </div>
+</hso-sticky-header>
+
+<mat-divider></mat-divider>
+
+<mat-divider></mat-divider>
+<div class="section">
+    <div class="loading-shade" *ngIf="isLoadingResults">
+        <mat-spinner *ngIf="isLoadingResults"></mat-spinner>
+    </div>
+    <!--<div fxLayout="row" fxLayoutAlign="space-between none">-->
+    <!--<span class="mat-body export">{{'LABELS.EXPORT' | translate }}</span>-->
+    <!--<span class="mat-body export">{{'LABELS.EXPORT_ALL' | translate }}</span>-->
+    <!--</div>-->
+    <hso-attestation-tree [attestation]="attestation"
+                          [selectionModel]="sharedCriterionRatingSelection"
+                          [params]="searchParams"
+                          [startExpanded]="first && expandFirstChild"
+                          *ngFor="let attestation of assessmentData | async; let first = first">
+    </hso-attestation-tree>
+    <mat-paginator [length]="resultsLength"
+                   [pageIndex]="pageIndex"
+                   [pageSize]="pageSize"
+                   (page)="changePage($event)"
+                   [pageSizeOptions]="[5,25,50,100]">
+    </mat-paginator>
+
+</div>
+
+
+
+</div>
+
+import { Component, Injectable, Inject, OnInit, ViewChild, ViewChildren, QueryList } from '@angular/core';
+import { Router, ActivatedRoute, Params } from '@angular/router';
+import { MatPaginator, MatSort, PageEvent } from '@angular/material';
+import { MatTableDataSource, MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material';
+
+import { BehaviorSubject, Observable, of as observableOf } from 'rxjs';
+import { map, switchMap, tap } from 'rxjs/operators';
+
+import { CriterionRatingService } from 'app/services/criterion-rating.service';
+import { RatingAssignmentService } from 'app/services/rating-assignment.service';
+import { ClinicalServiceService } from 'app/services/clinical-service.service';
+
+import { ISite } from 'app/shared/model/site.model';
+
+import { SelectionModel } from '@angular/cdk/collections';
+import { FlatTreeControl } from '@angular/cdk/tree';
+import { MatTreeFlatDataSource, MatTreeFlattener } from '@angular/material/tree';
+
+import { HttpResponse, HttpErrorResponse } from '@angular/common/http';
+import { Pageable } from 'app/shared/model/pageable';
+import { IClinicalService } from 'app/shared/model/clinical-service.model';
+import { ICriterionRating, Rating } from 'app/shared/model/criterion-rating.model';
+
+import { AssignCriteriaDialogComponent } from './assign-criteria/assign-criteria-dialog.component';
+import { RateCriteriaDialogComponent } from './rate-criteria/rate-criteria-dialog.component';
+import { JhiAlertService } from 'ng-jhipster';
+import { IRatingAssignment } from 'app/shared/model/rating-assignment.model';
+import { AssessmentService } from 'app/services/assessment.service';
+import { IAssessment, AssessmentType } from 'app/shared/model/assessment.model';
+import { AttestationTreeComponent } from 'app/attestation/attestation-tree.component';
+import { Principal, IUser } from 'app/core';
+import { AssessmentMethod } from 'app/shared/model/criterion.model';
+import { ProgressSpinnerDialogComponent } from 'app/shared/progress-spinner-dialog/progress-spinner.dialog.component';
+
+enum QUERY_PARAM {
+    ZONE = 'zone',
+    SECTOR = 'sector',
+    SITE = 'site',
+    SERVICE_ID = 'serviceId',
+    ASSESSMENT = 'assessment',
+    ASSIGNEE = 'assignee',
+    RATING = 'rating'
+}
+
+export const DEFUALT_PAGE = {
+    page: 0,
+    size: 25
+};
+
+export interface SearchParams {
+    assessmentType?: AssessmentType;
+    assessmentMethod?: AssessmentMethod;
+    rating?: Rating;
+    siteIds?: number[];
+    serviceId?: number;
+    assigneeId?: number;
+    assessmentId?: number;
+    page: number;
+    size: number;
+}
+
+@Component({
+    selector: 'hso-attestation',
+    templateUrl: './attestation.component.html',
+    styleUrls: ['./attestation.scss']
+})
+export class AttestationComponent implements OnInit {
+    data: ISite[];
+
+    assessmentData: Observable<IAssessment[]>;
+
+    resultsLength = 0;
+    isLoadingResults: boolean;
+    pageSize = 25;
+    pageIndex = 0;
+
+    filterOpenState = false;
+
+    zones: Object[] = [
+        { key: 'LABELS.NORTH', value: 'North' },
+        { key: 'LABELS.EAST', value: 'East' },
+        { key: 'LABELS.SOUTH', value: 'South' },
+        { key: 'LABELS.WEST', value: 'West' }
+    ];
+    sectors: string[] = ['Edmonton', 'Calgary'];
+    services: IClinicalService[];
+
+    criteriaTypes: string[] = ['Attestable'];
+    assignees: string[] = ['Me'];
+    ratings: string[] = ['MET', 'UNMET', 'N/A', 'PENDING', 'NOT_RATED'];
+    assessmentMethods: string[] = ['ON_SITE', 'ATTESTATION'];
+
+    selectedZone: string;
+    selectedSector: string;
+    selectedSiteName: string;
+    selectedService: IClinicalService;
+    selectedCriteriaAssessmentMethod: string;
+    selectedAssignee: string;
+    selectedRating: string;
+
+    expandFirstChild = false;
+    
+    @ViewChild(MatPaginator) paginator: MatPaginator;
+    @ViewChild(MatSort) sort: MatSort;
+
+    @ViewChildren(AttestationTreeComponent) attestationTrees!: QueryList<AttestationTreeComponent>;
+
+    sharedCriterionRatingSelection = new SelectionModel<number>(true);
+
+    searchParams: SearchParams;
+
+    currentUser: IUser;
+
+    constructor(
+        private router: Router,
+        private route: ActivatedRoute,
+        private criterionRatingService: CriterionRatingService,
+        private clinicalServiceService: ClinicalServiceService,
+        private ratingAssignmentService: RatingAssignmentService,
+        //        private database: AssessmentDatabase,
+        public dialog: MatDialog,
+        private alertService: JhiAlertService,
+        private assessmentService: AssessmentService,
+        private principal: Principal
+    ) {
+        principal.identity().then(id => (this.currentUser = id));
+
+        this.assessmentData = this.route.queryParams.pipe(
+            tap(_ => {
+                this.isLoadingResults = true;
+                this.sharedCriterionRatingSelection.clear();
+            }),
+            map(params => { // {...DEFAULT_PAGE, ...params}),
+                return {...{page: 0, size: 25, sort: 'site.name', 'site.name.dir': 'asc'},
+                        ...params};
+            }),
+            map(params => params['attestableOnly'] === 'true' ?
+                {...params, ... { criteriaAssessmentMethod: 'ATTESTATION'} } : params),
+            map(params => params['selectedSiteIds'] ?
+                {...params, siteIds: params['selectedSiteIds'] } : params),
+            tap(params => {
+                this.searchParams = params as SearchParams;
+                if(params['expandFirstChild']) {
+                    this.expandFirstChild = true;
+                }
+            }),
+            switchMap(params => this.assessmentService.sdrFindAll(
+                { ...params,
+                  ...{ projection: 'withSite' }
+                })),
+            tap(response => this.resultsLength = response.body.page.totalElements),
+            tap(response => this.pageSize = response.body.page.size),
+            tap(response => this.pageIndex = response.body.page.number -1),
+            map(response => response.body._embedded.assessments as IAssessment[]),
+            tap(_ => this.isLoadingResults = false)) as Observable<IAssessment[]>;
+    }
+
+    changeSearch(params: SearchParams) {
+        this.router.navigate(['/attestation'], { // TODO: '/attestation' should be parametrized...
+            queryParams: params,
+            queryParamsHandling: '' //'merge'
+        });
+    }
+
+    changePage($event: PageEvent) {
+        const pageInfo = {'page': $event.pageIndex +1,
+                          'size': $event.pageSize};
+        this.changeSearch({...this.searchParams , ...pageInfo});
+    }
+
+    ngOnInit() {
+        this.assessmentData.subscribe(data => {
+            // console.log(`assessmentData just set to ${JSON.stringify(data)}`);
+        });
+    }
+
+    openAssignDialog(): void {
+        this.dialog.open(AssignCriteriaDialogComponent, {
+            width: '50%',
+            height: '80%',
+           // pass in create = true so that the user request form
+            // creates a user instead of edits an existing user
+
+            // TODO: HACK! needs refactor! (shouldn't use same form to
+            // edit vs invite user -- very different operations
+            // requiring different data)
+            data: { create: true }
+        }).afterClosed().subscribe(result => {
+
+            if (result) {
+                const userId = result.id;
+
+                const ratingAssignmentSpecs = this.sharedCriterionRatingSelection.selected.map(criterionRatingId => {
+                    return {
+                        userId: userId,
+                        criterionRatingId: criterionRatingId
+                    };
+                });
+
+
+                let progressSpinner: MatDialogRef<ProgressSpinnerDialogComponent> = this.dialog.open(ProgressSpinnerDialogComponent, {
+                    panelClass: 'transparent',
+                    disableClose: true
+                });
+
+                this.ratingAssignmentService.createInBulk(ratingAssignmentSpecs).subscribe(
+                    response => {
+                        response.body.forEach(ratingAssignment => this.attestationTrees.some(tree => tree.mergeRa(ratingAssignment)));
+
+                        this.alertService.success('Assignment Successful');
+                        this.sharedCriterionRatingSelection.clear();
+                        progressSpinner.close();
+                    },
+                    error => {
+                        console.log(`caught error ${JSON.stringify(error)}`);
+                        this.sharedCriterionRatingSelection.clear();
+                        this.changeSearch(this.searchParams);
+                        progressSpinner.close();
+                    }
+                );
+            }
+        });
+    }
+
+    openRateDialog(selectedNodes): void {
+        // with what's selected, collect the rating assignments that are assigned to the current user
+        console.log('open rate dialog. selectedNodes: ' + JSON.stringify(selectedNodes));
+
+        const criterionRatings = selectedNodes
+            .filter(node => {
+                return node.criterionRating != null;
+            })
+            .map(node => {
+                console.log('mapping node to ' + JSON.stringify(node));
+                return node.criterionRating;
+            });
+
+        console.log('criterionRatings: ' + JSON.stringify(criterionRatings));
+
+        const dialogRef = this.dialog.open(RateCriteriaDialogComponent, {
+            width: '50%',
+            height: '80%',
+            data: criterionRatings
+        });
+
+        dialogRef.afterClosed().subscribe(result => {
+            console.log('The dialog was closed. result: ' + result);
+        });
+    }
+
+    logEvent($event: any): void {
+        console.log('log event received...');
+        console.log($event);
+    }
+}
+
+import { Route } from '@angular/router';
+
+import { UserRouteAccessService } from 'app/core';
+import { AttestationComponent } from './';
+
+export const ATTESTATION_ROUTE: Route = {
+    path: '',
+    component: AttestationComponent,
+    data: {
+        authorities: ['ROLE_USER'],
+        pageTitle: 'structureApp.attestation.home.title'
+    },
+    canActivate: [UserRouteAccessService]
+};
+
+@import '../../content/scss/colours.scss';
+
+.filters {
+    margin-top: 10px;
+}
+
+.filter-label {
+    margin-bottom: 5px;
+    color: $hso-dark-grey;
+    font-weight: bold;
+}
+
+.between-filters {
+    margin-bottom: 20px;
+}
+
+// .siteChipList {
+//     width: fit-content;
+// }
+
+.apply-button {
+    margin-bottom: 20px;
+}
+
+.mat-form-field {
+    width: auto !important;
+}
+
+.mat-select-value {
+    max-width: 100%;
+    width: auto;
+}
+
+.filter {
+    color: $hso-cyan;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.button-row button,
+.button-row a {
+    margin-right: 8px;
+}
+
+.rating-assignment-btn {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.assignment-box .mat-icon-button {
+    width: unset;
+    height: unset;
+}
+
+.rating-text {
+    font-size: 0.875em;
+}
+
+//::ng-deep .mat-checkbox .mat-checkbox-frame {
+//    border-color: grey;
+//}
+
+::ng-deep .mat-checkbox-checked .mat-checkbox-background {
+    background-color: rgba(46, 163, 242, 0.87) !important;
+}
+
+::ng-deep .mat-checkbox-indeterminate .mat-checkbox-background {
+    background-color: rgba(46, 163, 242, 0.87) !important;
+}
+
+.leaf-checkbox {
+    margin-right: 15px;
+    width: 0px;
+    margin-top: 18px;
+}
+
+table {
+    width: 100%;
+}
+
+.loading-shade {
+    margin-left: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.nodeType,
+.count-badge {
+    background-color: #bbbbbb;
+    color: #fff;
+    padding: 1px 5px 1px 5px;
+}
+
+.nodeType-indeterminate {
+    outline-color: #6ca6ed;
+    outline-style: dashed;
+}
+
+.nodeType.nodeType-selected {
+    background-color: #6ca6ed;
+    outline-color: #6ca6ed;
+}
+
+.rating-met {
+    background-color: #18ab68;
+    color: #fff;
+    padding: 1px 5px 1px 5px;
+}
+
+li.leaf-node {
+    margin-left: 16px;
+}
+
+.border-left {
+    border-left: 1px solid;
+}
+
+.rating-pending {
+    background-color: #6ca6ed;
+    color: #fff;
+    padding: 1px 5px 1px 5px;
+}
+
+.rating-unmet {
+    background-color: #ab464e;
+    color: #fff;
+    padding: 1px 5px 1px 5px;
+}
+
+.rating-not_applicable {
+    background-color: #b4c8ed;
+    color: #fff;
+    padding: 1px 5px 1px 5px;
+}
+
+.assignment-box {
+    margin: 0px 80px 20px 40px;
+    background-color: rgb(204, 204, 204);
+    padding: 10px;
+}
+
+button.attestation-button.mat-flat-button.mat-primary {
+    background-color: white;
+    border: 1px solid $hso-light-grey;
+    color: $hso-light-grey;
+}
+button.apply-button.mat-flat-button.mat-primary {
+}
+button.assign-button.mat-flat-button.mat-primary {
+    background-color: $hso-light-grey;
+}
+
+.mat-badge-content {
+    background-color: $hso-dark-grey;
+}
+
+// added just to check the styles
+
+.between-filters {
+    margin-bottom: 20px;
+}
+
+.site {
+    margin: 20px 20px 20px 40px;
+    border: 1px solid gray;
+}
+.site-row {
+    border:1px solid gray; 
+    margin-top: 0.7%;
+}
+
+.site-header {
+    height: auto;
+    background-color: #f9f9f9;
+//    padding: 8px 14px;
+    border-bottom: 1px solid #d8d5d5;
+}
+
+.site-header .mat-h2, .service-header .mat-h2, .standard-header .mat-h2 {
+    margin-bottom: 0px;
+    margin-left: 1.5%;
+}
+
+.service-header {
+    height: auto;
+//    padding: 8px 14px;
+}
+
+.standard-header {
+    height: auto;
+}
+
+.clause-section {
+    margin-top: 10px;
+}
+
+.clause-header {
+    height: auto;
+}
+
+.mat-h3 {
+    font-weight: 600;
+    max-width: 88%;
+    min-width: 85%;
+    margin-bottom: -13px;
+//    margin: 0 0 2% 1%;
+}
+
+.site-header .mat-standard-chip,
+.service-header .mat-standard-chip,
+.standard-header .mat-standard-chip {
+    padding: 2px 12px;
+    border-radius: 24px;
+    color: white;
+    background-color: #383838;
+    font-size: 15px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.assign-instructions-1 {
+}
+
+.assign-instructions-2 {
+    margin-bottom: 10px;
+    padding-left: 0px;
+}
+
+.instructions {
+    padding: 7px 8px 0px 12px;
+}
+
+.ratings {
+    padding: 10px 0px 0px 20px;
+}
+
+.ratings .ratings-header {
+    margin-bottom: 12px;
+}
+
+.ratings .ratings-header .column-header {
+    color: $hso-dark-grey;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.rating-row {
+    margin-bottom: 30px;
+}
+
+.rating-row .flags {
+    padding-top: 8px; // to match the padding on the guidelines button
+}
+
+.rating-row .flags .mat-chip-list-wrapper .mat-standard-chip {
+    margin: 4px 0px 0px 0px;
+}
+
+.rating-row .flags .mat-standard-chip {
+    padding: 2px 12px;
+    border-radius: 24px;
+    color: white;
+    background-color: #aaaaaa;
+    font-size: 15px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.rating-row .flags .mat-standard-chip.attestable {
+    background-color: $hso-yellow;
+}
+
+.rating-row .flags .mat-standard-chip.high-priority {
+    background-color: $hso-light-grey;
+}
+
+.number .mat-button {
+    min-width: 60px;
+    width: 60px;
+    padding: 0px;
+    font-weight: 600;
+    text-decoration: underline;
+    color: $hso-cyan;
+}
+
+.rating-row .description-area {
+    padding-top: 8px; // to match the padding on the guidelines button
+}
+
+.rating-row .description-area .criterion-text {
+    color: $hso-dark-grey;
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+.disabled .criterion-text {
+    color: $hso-light-grey !important;
+    font-weight: 400 !important;
+}
+
+.rating-row .chain {
+    padding: 10px 0px 10px 0px;
+}
+
+.rating-row .actions {
+    font-size: 14px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.rating-row .rating {
+}
+
+.chain .person {
+    border: 1px solid $hso-dark-grey;
+    box-shadow: none;
+    padding: 4px 12px 4px 12px;
+    font-size: 14px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    display: inline;
+
+    width: 85px;
+    height: 55px;
+    /* make text not selectable */
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+
+    cursor: pointer;
+}
+
+.chain .person .initials {
+    margin-bottom: 2px;
+}
+
+.chain .person .full-name {
+    font-size: 10px;
+    font-weight: 400;
+    min-height: 22px;
+}
+
+.chain .person.disabled {
+    color: #d6d6d6 !important;
+    cursor: default !important;
+}
+
+.chain .person.met {
+    border: 1px solid $hso-green;
+    background-color: $hso-green;
+    color: white;
+}
+
+.chain .person.unmet {
+    border: 1px solid $hso-light-red;
+    background-color: $hso-light-red;
+    color: white;
+}
+
+.chain .not-applicable {
+    border: 1px solid #ccad10;
+    background-color: #ccad10;
+    color: white;
+}
+
+.chain .not-rated {
+    background-color: white;
+}
+
+.chain .plus {
+    padding: 2px 14px 2px 14px;
+    font-size: 39px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    color: $hso-cyan;
+    background-color: white;
+    border: none;
+
+    /* make text not selectable */
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+
+    cursor: pointer;
+}
+
+.chain .plus[disabled] {
+    cursor: default !important;
+    color: $hso-light-grey !important;
+}
+
+.align-tree {
+    margin-left:1.5%;
+}
+
+
+mat-chip.highlight {
+    background-color: $hso-cyan !important;
+}
+
+// mat-chip.clause-color.mat-chip.mat-primary.mat-standard-chip {
+//     background-color: $hso-cyan;
+// }
+
+.minimize-button {
+    margin-right:10px;
+}
+
+.sec-minimize-button {
+    margin-right: -4px;
+}
+
+.criteria-checkbox {
+    margin-right: 70px;
+}
+
+.export {
+    color: $hso-cyan;
+    border-bottom: 1px solid $hso-cyan;
+    cursor: pointer;
+}
+
+.lock-button {
+    position: relative;
+    top: 26px;
+    left: -21px;
+    display: block;
+    margin-right: -40px;
+    color: $hso-dark-grey;
+}
+
+<div class="section">
+
+    <div class="section-header">
+        <h1 class="mat-h1">{{'ATTESTATION_BOARD.TITLE' | translate }} </h1>
+        <div class="mat-body instructions">{{'ATTESTATION_BOARD.INFO' | translate }}
+            <button mat-flat-button class="action-button export-all" (click)="onExportAssessment()" [disabled]="selection.selected.length == 0">
+                {{'LABELS.EXPORT_SELECTED' | translate}}
+            </button>
+        </div>
+    </div>
+
+    <div class="panel">
+        <div class="filters">
+            <div>
+                <h3 class="mat-h3">{{'LABELS.SEARCH' | translate }}</h3>
+            </div>
+
+            <div fxLayout="row" fxLayoutAlign="spread end" style="margin-top:-30px;">
+                    <hso-chip-select style="width: 50%"    
+                                 [data]="completableSites"
+                                 [label]="'Site Name'"
+                                 [isReseted]="isReseted"
+                                 [diplayField]="'name'"
+                                 (onFilterData)="onFilterSites($event)"
+                                 (onDataChange)="onSitesDataChange($event)">
+                    </hso-chip-select>
+
+                    <hso-chip-select style="margin-left: 1%; width: 50%"    
+                        [data]="completableServices"
+                        [label]="'Service Name '"
+                        [isReseted]="isReseted"
+                        [diplayField]="'name'"
+                        (onFilterData)="onFilterServices($event)"
+                        (onDataChange)="onServicesDataChange($event)">
+                    </hso-chip-select>
+
+            </div>
+
+        </div>
+        <div fxLayout="row" fxLayoutAlign="space-between">
+            <span class="spacer"></span>
+            <div fxLayout="row">
+                <button mat-flat-button class="action-button reset-button" [disabled]="getResetStatus()" (click)="onResetAssessmentFilter()">{{'LABELS.RESET'
+                    | translate }}</button>
+                <button mat-flat-button class="action-button filter-button" (click)="onApplyAssessmentFilter()">{{'LABELS.APPLY'
+                    | translate }}</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<mat-table mat-table [dataSource]="data" style="width: 100%;" matSort matSortActive="siteName, startDate, endDate" matSortDisableClear matSortDirection="asc">
+
+    <!-- Checkbox Column -->
+    <ng-container matColumnDef="select">
+        <th mat-header-cell *matHeaderCellDef class="column-width-5"></th>
+        <td mat-cell *matCellDef="let row" class="column-width-5 vertical-align-cell">
+            <mat-checkbox (click)="$event.stopPropagation()" (change)="$event ? selection.toggle(row) : null" [checked]="selection.isSelected(row)">
+            </mat-checkbox>
+        </td>
+    </ng-container>
+
+    <!-- Site Column -->
+    <ng-container matColumnDef="siteName">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> {{'LABELS.SITE' | translate}} </th>
+        <td mat-cell *matCellDef="let assessment"  class="vertical-align-cell"> {{assessment.siteName}} </td>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header class="column-width-10"> {{'LABELS.NAME' | translate}} </th>
+        <td mat-cell *matCellDef="let assessment" class="column-width-10 vertical-align-cell"> {{assessment.name ? assessment.name : ('ATTESTATION.DEFAULT_NAME' | translate)}} </td>
+    </ng-container>
+
+    <!-- Zone Column -->
+    <ng-container matColumnDef="zone">
+        <th mat-header-cell *matHeaderCellDef>{{'ATTESTATION_BOARD.ASSESSMENT_MANUAL' | translate}} </th>
+        <td mat-cell *matCellDef="let assessment" class="service-list vertical-align-cell">{{assessment.criteriaGroupName}}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="startDate">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header class="column-width-10">{{'LABELS.START_DATE' | translate}}</th>
+        <td mat-cell *matCellDef="let assessment" class="manual-list column-width-10 vertical-align-cell">
+            <span *ngIf="assessment.startDate">{{assessment.startDate | amUtc | amLocal | amDateFormat:'YYYY-MM-DD HH:mm'}}</span>
+        </td>
+    </ng-container>
+
+    <!-- Date Range Column -->
+    <ng-container matColumnDef="endDate">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header class="column-width-10">{{'LABELS.END_DATE' | translate}}</th>
+        <td mat-cell *matCellDef="let assessment" class="manual-list column-width-10 vertical-align-cell">
+            <span *ngIf="assessment.startDate">{{assessment.endDate | amUtc | amLocal | amDateFormat:'YYYY-MM-DD HH:mm'}}</span>
+        </td>
+    </ng-container>
+
+    <!-- Status Column -->
+    <ng-container matColumnDef="status">
+        <th mat-header-cell *matHeaderCellDef class="column-width-10 padding-left-1"> {{'LABELS.STATUS' | translate}} </th>
+
+        <td mat-cell *matCellDef="let assessment" class="column-width-10 vertical-align-cell">
+            <tr>
+                <ngx-charts-bar-horizontal-stacked [view]="view" [scheme]="colorScheme" [results]="assessment.criteriaData" [gradient]="gradient"
+                    [xAxis]="showXAxis" [yAxis]="showYAxis" [legend]="showLegend" [showDataLabel]="showDataLabel" [showXAxisLabel]="showXAxisLabel"
+                    [showYAxisLabel]="showYAxisLabel" [xAxisLabel]="xAxisLabel" [yAxisLabel]="yAxisLabel" (select)="onSelect($event)">
+                    <ng-template #tooltipTemplate let-model="model" class="chart-tooltip">
+                        <h3 class="chart-tool-tip">{{model?.name}}: {{model?.value}}</h3>
+                      </ng-template>
+                </ngx-charts-bar-horizontal-stacked>
+            </tr>
+            <tr>
+                <td class="status-indicator">
+                    <div>
+                        {{'LABELS.COMPLETION' | translate}} : {{assessment?.totalMetCount + assessment?.totalUnmetCount + assessment?.totalNotApplicableCount}}/{{assessment?.totalCriteriaCount}}
+                    </div>
+                    <div>
+                        {{'LABELS.MET' | translate}} : {{assessment?.totalMetCount}}/{{assessment?.totalCriteriaCount}}
+                    </div>
+                    <div>
+                        {{'LABELS.UNMET' | translate}} : {{assessment?.totalUnmetCount}}/{{assessment?.totalCriteriaCount}}
+                    </div>
+                    <div>
+                        {{'LABELS.NA' | translate}} : {{assessment?.totalNotApplicableCount}}/{{assessment?.totalCriteriaCount}}
+                    </div>
+                </td>
+            </tr>
+        </td>
+    </ng-container>
+
+    <ng-container matColumnDef="export">
+        <th mat-header-cell *matHeaderCellDef></th>
+        <td mat-cell *matCellDef="let assessment">
+            <button mat-icon-button (click)="onExportAssessment(assessment)" class="center-align-contents">
+                <mat-icon>save_alt</mat-icon>
+            </button>
+        </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns" class="header-margin-10"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;" (click)="selection.toggle(row)"></tr>
+</mat-table>
+
+<mat-paginator #paginator [length]="resultsLength" [pageIndex]="0" [pageSize]="10" [pageSizeOptions]="[5, 10, 25, 100]"></mat-paginator>
+
+
+import { Component, OnInit, ViewChild, AfterViewInit } from '@angular/core';
+import { MatPaginator, MatSort, MatInput, MatDialog, MatTableDataSource } from '@angular/material';
+import { AssessmentService } from 'app/services/assessment.service';
+import { AccountService } from 'app/core';
+import 'core-js';
+import { IClinicalService } from 'app/shared/model/clinical-service.model';
+import { ExcelImportService } from 'app/services/excel-import.service';
+import { ClinicalServiceService } from 'app/services/clinical-service.service';
+import { ISite } from 'app/shared/model/site.model';
+import { BehaviorSubject } from 'rxjs';
+import { SiteService } from 'app/services/site.service';
+import { Debounce } from 'lodash-decorators';
+import { SelectionModel } from '@angular/cdk/collections';
+import { ToastrService } from 'ngx-toastr';
+import { Utils } from 'app/common/utils';
+
+export class AttestationDashboardFilters {
+    public siteName?: string;
+    public organizationCode?: string;
+    public clinicalServiceId = 0;
+    public zone = 0;
+    public sector = 0;
+}
+
+@Component({
+    selector: 'hso-attestation-board',
+    templateUrl: './attestation-board.component.html',
+    styleUrls: ['attestation-board.scss']
+})
+export class AttestationBoardComponent implements OnInit {
+
+    displayedColumns: string[] = ['select', 'siteName', 'name', 'zone', 'startDate', 'endDate', 'status', 'export'];
+    data: MatTableDataSource<any>;
+    selection = new SelectionModel<any>(true, []);
+    isLoadingResults = false;
+    resultsLength = 0;
+    isReseted = false;
+    loggedUserId: number;
+    clinicalServices: IClinicalService[] = [];
+    filterData: AttestationDashboardFilters = new AttestationDashboardFilters();
+    selectedSites = [] as ISite[];
+    selectedServices = [] as IClinicalService[];
+    completableServices = new BehaviorSubject<IClinicalService[]>([]);
+    completableSites = new BehaviorSubject<ISite[]>([]);
+
+    view: any[] = [250, 50];
+    // options
+
+    zones = [];
+    sectors = [];
+
+    showXAxis = false;
+    showYAxis = false;
+    gradient = false;
+    showLegend = false;
+    showXAxisLabel = false;
+    showDataLabel = true;
+    xAxisLabel = '';
+    showYAxisLabel = false;
+    yAxisLabel = '';
+
+    colorScheme = {
+        domain: ['#5AA454', '#A10A28', '#C7B42C', '#888888']
+    };
+
+    response: any;
+
+    @ViewChild(MatPaginator) paginator: MatPaginator;
+    @ViewChild(MatSort) sort: MatSort;
+
+    constructor(private assementService: AssessmentService,
+        public accountService: AccountService,
+        public excelImportService: ExcelImportService,
+        private clinicalServiceService: ClinicalServiceService,
+        private siteService: SiteService,
+        private dialog: MatDialog,
+        private utils: Utils,
+        private toastr: ToastrService) { }
+
+    ngOnInit() {
+        this.getAllClinicalServices();
+        this.getAllAttestationForUser(); // todo:need to find a alternate way to get the account details
+    }
+
+    isAllSelected() {
+        const numSelected = this.selection.selected.length;
+        const numRows = this.data.data.length;
+        return numSelected === numRows;
+    }
+
+    masterToggle() {
+        this.isAllSelected() ?
+            this.selection.clear() :
+            this.data.data.forEach(row => this.selection.select(row));
+    }
+
+    displaySite(site?: ISite): string {
+        return site ? site.name : '';
+    }
+
+    updateCompletableSites(prefix: string): void {
+        if (prefix.length < 3) {
+            this.completableSites.next([]);
+        } else {
+            this.siteService.findByNameIgnoreCaseContaining(prefix)
+                .subscribe(response => {
+                    this.completableSites.next(response.body._embedded.sites);
+                });
+        }
+    }
+
+    getAllClinicalServices() {
+        this.clinicalServiceService.query({
+            size: 5000, // temporarily to get data, need to expose an api to fetch all
+            sort: 'name,asc'
+        }).subscribe(data => {
+            this.clinicalServices = data.body['content'];
+        });
+    }
+
+    onExportAssessment(assessment?) {
+
+        let raterDetails = [];
+        var d = new Date();
+        let date = d.toDateString();
+        let time = d.getTime();
+
+        if (!assessment && this.selection.selected.length === 0) {
+            this.toastr.error('', 'Please select atleast one attestation to export!');
+            return;
+        }
+        let assessmentIds = [];
+        if (this.selection.selected.length !== 0) {     
+            this.selection.selected.forEach(assmt => assessmentIds.push(assmt.assessmentId));
+        } else if (assessment && assessment.assessmentId) {
+            assessmentIds.push(assessment.assessmentId);
+        } else {
+            assessmentIds = null;
+        }
+
+        this.assementService.getAssessmentsToExport({ assessmentId: assessmentIds }).subscribe(
+            (res: any) => {
+                this.response = res.body;
+                for (let i = 0; i < this.response.length; i++) {
+                    raterDetails = this.response[i].raterDetails;
+                    for (let j = 0; j < raterDetails.length; j++) {
+
+                        if(raterDetails[j].raterIndex == 0){
+                            this.response[i]['Attester'] = raterDetails[j].raterName;
+                            this.response[i]['Attester Criteria Comments'] = raterDetails[j].criteriaComments;
+                            this.response[i]['Attester Criteria Rating'] = raterDetails[j].criteriaRating;
+                        }
+                        if (raterDetails[j].raterName != null && raterDetails[j].raterIndex != 0) {
+                            this.response[i]['Rater'+ ' ' + (j)] = raterDetails[j].raterName;
+                            this.response[i]['Criteria Comments' + ' ' + (j)] = raterDetails[j].criteriaComments;
+                            this.response[i]['Criteria Rating' + ' ' + (j)] = raterDetails[j].criteriaRating;
+                        }
+                    }
+                    delete this.response[i].raterDetails;
+                }            
+                
+                if (assessment && assessment.siteName) {
+                    const attestationName = (!assessment || !assessment.attestationName) ? 'attestation' : assessment.attestationName;
+                    let fileName = assessment.siteName + '_' + attestationName + '_' + date + '_' + time;
+                    this.excelImportService.exportAsExcelFile(this.response, fileName); 
+                } else {
+                    let fileName = 'Composite_Attestation_Results' + '_' + date + '_' + time;
+                    this.excelImportService.exportAsExcelFile(this.response, fileName);
+                }
+                this.selection.clear();
+              
+            }
+        );
+    }
+
+
+    updateCompletableServices(prefix: string): void {
+        if (prefix.length < 3) {
+            this.completableServices.next([]);
+        } else {
+            const filtertedClinicalServices = this.clinicalServices.filter(item => this.utils.containsIgnoreCase(item.name, prefix));
+            this.completableServices.next(filtertedClinicalServices);
+        }
+    }
+
+    onSitesDataChange(prefix) {
+        this.updateCompletableSites(prefix);
+    }
+
+
+    onServicesDataChange(prefix) {
+        this.updateCompletableServices(prefix);
+    }
+
+    onFilterSites(selectedSites) {
+        // this.isReseted = false;
+        this.selectedSites = selectedSites;
+        if (this.isReseted && this.selectedServices.length === 0) {
+            this.cbsOnResetAssessmentFilter();
+        }
+    }
+
+    onFilterServices(selectedServices) {
+        this.selectedServices = selectedServices;
+        if (this.isReseted && this.selectedSites.length === 0) {
+            this.cbsOnResetAssessmentFilter();
+        }
+    }
+
+    onApplyAssessmentFilter() {
+        this.paginator.pageIndex = 0;
+        this.getAllAttestationForUser();
+    }
+
+    onResetAssessmentFilter() {
+        this.isReseted = true;
+        // Call back event will be triggered from chip select component, once all the chip select component has been reseted.
+    }
+
+    cbsOnResetAssessmentFilter() {
+        this.isReseted = false;
+        this.paginator.pageIndex = 0;
+        this.filterData = new AttestationDashboardFilters();
+        this.selectedSites = [];
+        this.selectedServices = [];
+        this.getAllAttestationForUser();
+    }
+
+    getResetStatus() {
+        if (this.selectedSites.length === 0 && this.selectedServices.length === 0 && JSON.stringify(this.filterData) === JSON.stringify(new AttestationDashboardFilters())) {
+            return true;
+        }
+        return false;
+    }
+    getAllAttestationForUser() {
+
+        this.assementService.getAllUserAttestation(
+            {
+                siteName: this.selectedSites.length > 0 ? this.selectedSites[0].name : '',
+                servicesId: this.selectedServices.length > 0 ? this.selectedServices[0].id : '',
+                page: this.paginator.pageIndex,
+                size: this.paginator.pageSize,
+                // sort: 'siteName,asc',
+            }
+        ).subscribe(data => {
+            this.resultsLength = data.body.totalElements;
+            const response: any = data.body.content;
+            response.forEach(e => {
+                e.criteriaData = [];
+                e.criteriaData.push(
+                    {
+                        'name': 'Status',
+                        'series': [
+                            { 'name': 'Met', 'value': e.totalMetCount },
+                            { 'name': 'Unmet', 'value': e.totalUnmetCount },
+                            { 'name': 'Not Applicable', 'value': e.totalNotApplicableCount },
+                            // { 'name': 'Not Rated', 'value': e.totalNotRatedCount },
+                            { 'name': 'Remaining Criteria', 'value': e.totalCriteriaCount - (e.totalMetCount + e.totalUnmetCount + e.totalNotApplicableCount) }
+                        ]
+                    }
+                );
+            });
+            this.data = new MatTableDataSource(response);
+            this.data.sort = this.sort;
+            this.data.paginator = this.paginator;
+            this.data.sortingDataAccessor = (dataset, header) => dataset[header];
+        });
+    }
+
+    onSelect(event) {
+    }
+}
+
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import { RouterModule } from '@angular/router';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+
+import { StructureSharedModule } from 'app/shared';
+import { ExcelImportService } from 'app/services/excel-import.service';
+import { ATTESTATION_BOARD_ROUTE, AttestationBoardComponent } from './';
+import { ChipSelectModule } from 'app/common/chip-select/chip-select.moudle';
+
+@NgModule({
+    imports: [
+        FormsModule,
+        ReactiveFormsModule,
+        StructureSharedModule,
+        ChipSelectModule,
+        RouterModule.forChild([ATTESTATION_BOARD_ROUTE]),
+    ],
+    declarations: [AttestationBoardComponent],
+    schemas: [CUSTOM_ELEMENTS_SCHEMA],
+    providers: [ExcelImportService],
+    entryComponents: []
+})
+export class AttestationBoardModule { }
+
+import { Route } from '@angular/router';
+
+import { UserRouteAccessService } from 'app/core';
+import { AttestationBoardComponent } from 'app/attestation-board/attestation-board.component';
+
+export const ATTESTATION_BOARD_ROUTE: Route = {
+    path: '',
+    component: AttestationBoardComponent,
+    data: {
+        authorities: ['ROLE_USER'],
+        pageTitle: "{{'ATTESTATION_BOARD' | translate}}"
+    },
+    canActivate: [UserRouteAccessService]
+};
+
+/* ==========================================================================
+Attestation Board page styles
+========================================================================== */
+@import '../../content/scss/colours.scss';
+table {
+    width: 100%;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+td,
+th {
+    width: 25%;
+}
+
+.instructions {
+    margin-right: 20px;
+}
+
+.filter {
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mat-column-site {
+    flex: 0 1 auto;
+    width: 30% !important;
+}
+.export-all {
+    float: right;
+    width: 150px !important;
+}
+.export {
+    // color: #2f2f84;
+    // border-bottom: 1px solid #2f2f84;
+    cursor: pointer;
+}
+
+.mat-column-zone {
+    width: 15% !important;
+}
+
+.mat-column-status {
+    width: 25% !important;
+}
+.mat-column-export {
+    width: 20% !important;
+}
+
+.mat-raised-button {
+    background-color: $hso-dark-grey;
+    color: white;
+}
+
+.service-list {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.loading-shade {
+    margin-left: 20px;
+}
+
+//::ng-deep .mat-checkbox .mat-checkbox-frame {
+//    border-color: grey;
+//}
+
+::ng-deep .mat-checkbox-checked .mat-checkbox-background {
+    background-color: rgba(46, 163, 242, 0.87) !important;
+}
+
+::ng-deep .mat-checkbox-indeterminate .mat-checkbox-background {
+    background-color: rgba(46, 163, 242, 0.87) !important;
+}
+.status-indicator {
+    padding-left: 6%;
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+.filter-button {
+    margin-left: 10px;
+}
+
+.mat-chip-list-wrapper {
+    display: unset !important;
+}
+
+.site-chip {
+    flex:0 !important;
+}
+
+mat-cell, .mat-header-cell{
+    overflow: visible;
+}
+
+.column-width-10 {
+    width: 10% !important;
+}
+
+mat-header-cell.mat-header-cell.cdk-column-select.mat-column-select.ng-star-inserted {
+    margin: 25%;
+}
+
+.header-margin-10 {
+    margin: 10%;
+}
+.chart-tool-tip {
+    color: white;
+    font-family: Roboto, "Helvetica Neue", sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+}
+
+.class-width-100 {
+    width:150px !important;
+}
+
+.center-align-contents {
+    display: block;
+    margin: auto;
+}
+
+.padding-left-1 {
+    padding-left: 1% !important;
+}
+
+th.mat-header-cell {
+    padding: 1.25% 0 0 0;
+}
+
+.column-width-5 {
+    width: 5%;
+}
+
+.vertical-align-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+import { Injectable } from '@angular/core';
+import { HttpClient, HttpResponse } from '@angular/common/http';
+import { Observable } from 'rxjs';
+
+import { SERVER_API_URL } from 'app/app.constants';
+import { createRequestOption } from 'app/shared/util/request-util';
+import { IAssessment } from 'app/shared/model/assessment.model';
+import { AssessmentDescription } from 'app/shared/model/assessment-description.model';
+import { Pageable } from 'app/shared/model/pageable';
+import { ICriteriaGroup } from 'app/shared/model/criteria-group.model';
+
+type EntityResponseType = HttpResponse<IAssessment>;
+type EntityArrayResponseType = HttpResponse<Pageable<IAssessment>>;
+
+@Injectable({ providedIn: 'root' })
+export class AssessmentService {
+    private resourceUrl = SERVER_API_URL + 'api/assessments';
+    private sdrUrl = SERVER_API_URL + 'sdr/assessments';
+
+    constructor(private http: HttpClient) {}
+
+    create(assessmentDescripion: AssessmentDescription): Observable<EntityResponseType> {
+        return this.http.post<IAssessment>(this.resourceUrl, assessmentDescripion, { observe: 'response' });
+    }
+
+    update(assessment: IAssessment): Observable<EntityResponseType> {
+        return this.http.put<IAssessment>(this.resourceUrl, assessment, { observe: 'response' });
+    }
+
+    patch(assessment: IAssessment): Observable<EntityResponseType> {
+        return this.http.patch<IAssessment>(`${this.sdrUrl}/${assessment.id}`, assessment, {observe: 'response'});
+    }
+
+    find(id: number): Observable<EntityResponseType> {
+        return this.http.get<IAssessment>(`${this.resourceUrl}/${id}`, { observe: 'response' });
+    }
+
+    query(req?: any): Observable<EntityArrayResponseType> {
+        const options = createRequestOption(req);
+        return this.http.get<Pageable<IAssessment>>(this.resourceUrl, { params: options, observe: 'response' });
+    }
+
+    querySdr(req?: any): Observable<EntityArrayResponseType> {
+        const options = createRequestOption(req);
+        return this.http.get<Pageable<IAssessment>>(this.sdrUrl, { params: options, observe: 'response' });
+    }
+
+    // TODO: spec out this tree/node structure in typescript
+    getFullAssessment(id: number, options: any): Observable<HttpResponse<any>> {
+        const params = createRequestOption(options);
+        return this.http.get<IAssessment>(`${this.resourceUrl}/${id}/tree`, { params: params, observe: 'response' });
+    }
+
+    getAssessmentsToExport(req?: any): Observable<HttpResponse<any>> {
+        const params = createRequestOption(req);
+        return this.http.get<any>(`${this.resourceUrl}/export`, { params: params, observe: 'response' });
+    }
+
+    findAllWithManagementInfo(req?: any): Observable<HttpResponse<any>> {
+        const params = createRequestOption(req);
+        return this.http.get<any>(`${this.resourceUrl}/withSiteManagementInfo`, { params: params, observe: 'response' });
+    }
+
+    sdrFindAll(params: any): Observable<HttpResponse<any>> {
+        return this.http.get<any>(`${this.sdrUrl}/search/findAll/`, { params: params, observe: 'response' });
+    }
+
+    delete(id: number): Observable<HttpResponse<any>> {
+        return this.http.delete<any>(`${this.resourceUrl}/${id}`, { observe: 'response' });
+    }
+
+    getAllUserAttestation(req?: any): Observable<EntityArrayResponseType> {
+        const options = createRequestOption(req);
+        return this.http.get<Pageable<IAssessment>>(`${this.resourceUrl}/assignee`, { params: options, observe: 'response' });
+    }
+}
+
+
+<div fxLayout="column" fxFlexFill fxLayoutAlign="center center" style="background-image:url('/content/images/login-background.jpg');
+height: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover; ">
+    <div fxLayout="column" >
+
+        <div class=" mat-elevation-z4">
+            <mat-card style="width:300px; max-width:300px;">
+                <mat-card-title fxLayoutAlign="center center">
+                    <img src="/content/images/hso-logo-red.png" width="120px" style="margin-left:60px; margin-right: 60px; background-color: white;">
+                </mat-card-title>
+                <mat-card-content>
+                    <form fxLayout="column" fxLayoutAlign="start stretch" (ngSubmit)="login()">
+                        <div class="alert alert-danger" *ngIf="authenticationError">
+                            <strong>{{'LOGIN.FAILED.SIGNIN' | translate}}</strong><br/>{{'LOGIN.FAILED.CREDENTIALS' | translate}}
+                        </div>
+                        <mat-form-field class="full-width">
+                            <input type="email" name="username" id="username" class="input" placeholder="{{'LOGIN.EMAIL' | translate}}"
+                                   [(ngModel)]="username" required email matInput>
+                        </mat-form-field>
+
+                        <mat-form-field class="full-width">
+                            <input type="password" name="password" id="password" class="input" placeholder="{{'LOGIN.PASSWORD.PLACEHOLDER' | translate}}"
+                                   [(ngModel)]="password" required matInput>
+                        </mat-form-field>
+
+                        <!-- <mat-checkbox name="rememberMe" id="rememberMe" [(ngModel)]="rememberMe" >{{'LOGIN.REMEMBER-ME' | translate}}</mat-checkbox> -->
+
+                        <mat-checkbox name="rememberEmail" id="rememberEmail" [(ngModel)]="rememberEmail">
+                          {{'LOGIN.REMEMBER-EMAIL' | translate}}
+                        </mat-checkbox>
+                        
+                        <button mat-raised-button color="primary" type="submit" (click)="login()"
+                        style="margin-top:10px;">{{'LOGIN.SUBMIT' | translate}}</button>
+                    </form>
+                    <p></p>
+                    <div class="alert alert-warning">
+                        <a class="alert-link" (click)="requestResetPassword()" >{{'LOGIN.FORGOT-PASSWORD' | translate}}</a>
+                    </div>
+                </mat-card-content>
+            </mat-card>
+        </div>
+    </div>
+</div>
+
+$red: #f44336;
+
+.full-width {
+    width: 100%;
+}
+
+.alert {
+    font-size: 14px;
+    margin: 0px 0px 10px 0px;
+    color:$red;
+}
+
+.alert-link {
+    cursor: pointer;
+    color: #959595;
+    text-decoration: underline;
+}
+
+import { FormGroup, FormBuilder, Validators } from '@angular/forms';
+
+import { OnInit, Component, Renderer, ElementRef, AfterViewInit } from '@angular/core';
+
+import { Router } from '@angular/router';
+import { JhiEventManager } from 'ng-jhipster';
+
+import { LoginService } from 'app/core/login/login.service';
+import { StateStorageService } from 'app/core/auth/state-storage.service';
+import { LocalStorageService } from 'ngx-webstorage';
+
+@Component({
+    selector: 'hso-login',
+    templateUrl: './login.component.html',
+    styleUrls: ['./login.component.scss']
+})
+export class LoginComponent implements OnInit, AfterViewInit {
+
+    authenticationError: boolean;
+    password: string;
+    rememberMe: boolean;
+    username: string;
+    credentials: any;
+    rememberEmail: boolean;
+
+    userForm: FormGroup;
+    formErrors = {
+        'email': '',
+        'password': ''
+    };
+    validationMessages = {
+        'email': {
+            'required': 'Please enter your email',
+            'email': 'please enter your valid email'
+        },
+        'password': {
+            'required': 'please enter your password',
+            'pattern': 'The password must contain numbers and letters',
+            'minlength': 'Please enter more than 4 characters',
+            'maxlength': 'Please enter less than 25 characters',
+        }
+    };
+
+    constructor(
+        private fb: FormBuilder,
+        private eventManager: JhiEventManager,
+        private loginService: LoginService,
+        private stateStorageService: StateStorageService,
+        private elementRef: ElementRef,
+        private renderer: Renderer,
+        private router: Router,
+        private localStorageService: LocalStorageService
+    ) {
+        this.credentials = {};
+        this.username = localStorageService.retrieve('lastUsername') as string;
+        if (this.username) {
+            this.rememberEmail = true;
+        }
+    }
+
+    ngAfterViewInit() {
+        setTimeout(() => this.renderer.invokeElementMethod(this.elementRef.nativeElement.querySelector('#username'), 'focus', []), 0);
+    }
+
+    ngOnInit() {
+        this.buildForm();
+    }
+
+    buildForm() {
+        this.userForm = this.fb.group({
+            'email': ['', [
+                Validators.required,
+                Validators.email
+            ]
+            ],
+            'password': ['', [
+                Validators.pattern('^(?=.*[0-9])(?=.*[a-zA-Z])([a-zA-Z0-9]+)$'),
+                Validators.minLength(6),
+                Validators.maxLength(25)
+            ]
+            ],
+        });
+
+        this.userForm.valueChanges.subscribe(data => this.onValueChanged(data));
+        this.onValueChanged();
+    }
+
+    onValueChanged(data?: any) {
+        // if (!this.userForm) {
+        //   return;
+        // }
+        // const form = this.userForm;
+        // for (const field in this.formErrors) {
+        //   if (Object.prototype.hasOwnProperty.call(this.formErrors, field)) {
+        //     this.formErrors[field] = '';
+        //     const control = form.get(field);
+        //     if (control && control.dirty && !control.valid) {
+        //       const messages = this.validationMessages[field];
+        //       for (const key in control.errors) {
+        //         if (Object.prototype.hasOwnProperty.call(control.errors, key)) {
+        //           this.formErrors[field] += messages[key] + ' ';
+        //         }
+        //       }
+        //     }
+        //   }
+        // }
+    }
+
+    login() {
+        this.loginService
+            .login({
+                username: this.username,
+                password: this.password,
+                rememberMe: this.rememberMe
+            })
+            .then(() => {
+                this.authenticationError = false;
+
+                if (this.router.url === '/register' || /^\/activate\//.test(this.router.url) || /^\/reset\//.test(this.router.url)) {
+                    this.router.navigate(['']);
+                }
+
+                this.eventManager.broadcast({
+                    name: 'authenticationSuccess',
+                    content: 'Sending Authentication Success'
+                });
+
+                if (this.rememberEmail) {
+                    this.localStorageService.store('lastUsername', this.username);
+                } else {
+                    this.localStorageService.clear('lastUsername');
+                }
+                
+                // // previousState was set in the authExpiredInterceptor before being redirected to login modal.
+                // // since login is succesful, go to stored previousState and clear previousState
+                const redirect = this.stateStorageService.getUrl();
+                if (redirect) {
+                    this.stateStorageService.storeUrl(null);
+                    this.router.navigate([redirect]);
+                } else if (this.router.url === '/login') {
+                    this.router.navigate(['']);
+                }
+            })
+            .catch(() => {
+                this.authenticationError = true;
+            });
+    }
+
+    requestResetPassword() {
+        this.router.navigate(['/account-management/reset', 'request']);
+    }
+}
+
+import { NgModule } from '@angular/core';
+import { LoginComponent } from './login.component';
+import {
+    MatCardModule,
+    MatButtonModule,
+    MatButtonToggleModule,
+    MatCheckboxModule,
+    MatInputModule,
+    MatToolbarModule
+} from '@angular/material';
+import { CommonModule } from '@angular/common';
+import { FlexLayoutModule } from '@angular/flex-layout';
+import { Routes, RouterModule } from '@angular/router';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { StructureSharedModule } from 'app/shared';
+
+const routes: Routes = [{ path: '', component: LoginComponent, outlet: 'login' }];
+@NgModule({
+    imports: [
+        MatCardModule,
+        CommonModule,
+        FlexLayoutModule,
+        MatButtonModule,
+        MatButtonToggleModule,
+        MatInputModule,
+        MatToolbarModule,
+        MatCheckboxModule,
+        FormsModule,
+        ReactiveFormsModule,
+        RouterModule.forChild(routes),
+        StructureSharedModule
+    ],
+    declarations: [LoginComponent],
+    exports: [RouterModule],
+    providers: []
+})
+export class LoginModule {}
+
+
+<div class="section">
+
+        <div class="section-header">
+            <h1 class="mat-h1">{{ 'RATING-BOARD.HEADING' | translate }}</h1>
+            <div class="mat-body">{{ 'RATING-BOARD.INSTRUCTIONS' | translate }}</div>
+        </div>
+    
+    
+        <div class="panel">
+            <div class="filters">
+                <div>
+                    <h3 class="mat-h3">{{'LABELS.FILTERS' | translate }}</h3>
+                </div>
+    
+                <div fxLayout="row" fxLayoutAlign="spread end" style="margin-top:-30px;">
+                  <mat-form-field fxFlex="30" fxFlex.xs="100"  style="margin-top: 0.15% !important; flex-basis: 0% !important">
+                      <div class="mat-body-2 filter-label">{{ 'LABELS.SITE_NAME' | translate }}</div>
+                      <mat-chip-list #siteChips fxLayout="row">
+                        <mat-chip *ngFor="let site of selectedSites" removable (removed)="removeSite(site)">
+                          {{site.name}}
+                          <mat-icon matChipRemove>cancel</mat-icon>
+                        </mat-chip>
+                        <input #siteChipInput
+                               #trigger="matAutocompleteTrigger"
+                               fxFlex="100"
+                               [matChipInputFor]="siteChips"
+                               (matChipInputTokenEnd)="handleMatChipInputEnd($event, trigger)"
+                               [matAutocomplete]="siteAutocomplete"
+                               (input)="updateCompletableSites($event.srcElement.value)"
+                               >
+                      </mat-chip-list>
+                      <mat-autocomplete #siteAutocomplete="matAutocomplete"
+                                        [displayWith]="displaySite"
+                                        panelWidth="fit-content"
+                                        #siteAutocompleteComponent
+                                        (optionSelected)="addSiteChip($event.option.value)">
+                        <mat-option *ngFor="let site of completableSites | async" [value]="site">
+                          {{site.name}}
+                        </mat-option>
+                      </mat-autocomplete>
+                    </mat-form-field>
+                    
+                  <div class="mat-body between-filters"><b>{{'LABELS.AND' | translate }}</b></div>
+                 
+                  <mat-form-field fxFlex="30" fxFlex.xs="100" style="margin-top: 0.15% !important">
+                      <div style="margin-bottom: 2%" class="mat-body-2 filter-label">{{'LABELS.FILTER_MY_CRITERIA' | translate }}</div>
+                        <mat-select [(ngModel)]="selectedFilters" multiple>
+
+                          <mat-select-trigger>
+                            <mat-chip-list>
+                              <mat-chip *ngFor="let filter of selectedFilters">
+                                {{translationKeyFromFilterValue(filter) | translate}}
+                              </mat-chip>
+                            </mat-chip-list>
+                          </mat-select-trigger>
+
+
+                          <mat-optgroup label="{{'RATING-BOARD.FILTER-GROUPS.SUBMISSION-STATUS' | translate}}">
+                            <mat-option value="NOT_SUBMITTED" [disabled]="isAnyFilterSelected(['READY_TO_RATE', 'READY_TO_ATTEST'])">
+                              {{'RATING-BOARD.FILTERS.NOT-SUBMITTED' | translate}}
+                            </mat-option>
+                            <mat-option value="READY_TO_ATTEST" [disabled]="isAnyFilterSelected(['READY_TO_RATE', 'NOT_SUBMITTED'])">{{'RATING-BOARD.FILTERS.READY-TO-ATTEST' | translate}}</mat-option>
+                            <mat-option value="READY_TO_RATE" [disabled]="isAnyFilterSelected(['READY_TO_ATTEST', 'NOT_SUBMITTED'])">{{'RATING-BOARD.FILTERS.READY-TO-RATE' | translate}}</mat-option>
+                          </mat-optgroup>
+
+                          <mat-optgroup label="{{'RATING-BOARD.FILTER-GROUPS.ROP' | translate}}">
+                            <mat-option value="ROP" >{{'RATING-BOARD.FILTERS.ROP' | translate}}</mat-option>
+                          </mat-optgroup>
+
+                          <mat-optgroup label="{{'RATING-BOARD.FILTER-GROUPS.PRIORITY' | translate}}">
+                            <mat-option value="HIGH_PRIORITY">{{'RATING-BOARD.FILTERS.HIGH-PRIORITY' | translate}}</mat-option>
+                          </mat-optgroup>
+                          
+                          <mat-optgroup label="{{'RATING-BOARD.FILTER-GROUPS.ASSESSMENT-METHOD' | translate }}">
+                            <mat-option value="ATTESTABLE" [disabled]="isFilterSelected('ON_SITE')">{{'RATING-BOARD.FILTERS.ATTESTABLE' | translate }}</mat-option>
+                            <mat-option value="ON_SITE" [disabled]="isFilterSelected('ATTESTABLE')">{{'RATING-BOARD.FILTERS.ON-SITE' | translate}}</mat-option>
+                          </mat-optgroup>
+                          
+                        </mat-select>
+
+                  </mat-form-field>
+    
+                    <div class="mat-body between-filters"><b>{{'LABELS.AND' | translate }}</b></div>
+                    <span class="criteria" fxFlex="30" fxFlex.xs="100">
+                      <div style="margin-bottom: -3%" class="mat-body-2 filter-label">{{'LABELS.CRITERIA_KEYWORD' | translate }}</div>
+                      <div>
+                        <mat-form-field fxFlex="100" fxFlex.xs="100" style="margin-top: 0.15% !important" [floatLabel]="'never'">
+                            <input style="padding-left: 1% !important" matInput [(ngModel)]="textFilter" autoComplete="off" placeholder="{{'RATING-BOARD.CRITERIA-KEYWORD-PLACEHOLDER' | translate}}">
+                        </mat-form-field>     
+                      </div>
+                    </span>
+                    <button style="margin-left: 1%" mat-flat-button (click)="changeSearch()" class="action-button apply-button">{{'LABELS.APPLY' | translate }}</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <hso-sticky-header>
+        <div class="section">
+            <div class="panel">
+                <div fxLayout="row" fxLayoutAlign="space-between center" fxLayout.xs="column" fxLayoutAlign.xs="space-between start"
+                     fxLayoutGap="20px">
+                    <div class="mat-body" fxFlex="grow" [innerHTML]="'RATING-BOARD.AUTO_SAVE'| translate "></div>
+                    <button mat-flat-button class="action-button apply-button" (click)="copyDelegatedRatings()">
+                        {{'LABELS.AUTOFILL' | translate }}
+                    </button>
+                    <button mat-flat-button class="action-button apply-button" (click)="clearUnsubmittedRatings()">
+                        {{'LABELS.CLEAR' | translate }}
+                    </button>
+                    <button mat-flat-button id="submitBtn" class="action-button apply-button" (click)="openSubmitDialog()">
+                        {{'LABELS.SUBMIT' | translate }}
+                    </button>
+    
+                </div>
+            </div>
+        </div>
+    </hso-sticky-header>
+    
+    <div class="site" *ngFor="let assessment of assessments | async" [class.collapsed]="assessment.hidden">
+        <hso-rating-board-site-board #siteBoard
+                                     [params]="params"
+                                     [assessment]="assessment"
+                                     [currentUser]="currentUser"
+                                     (reload)="reload(assessment)">
+        </hso-rating-board-site-board>
+    </div>
+    <div id="no-site" class="site warning" *ngIf="(assessments | async)?.length === 0; else paginator">
+      <span class="mat-body" style="font-size: 25px">Welcome to the HSO OnBoard Attestation tool.</span>
+      <br>
+      <p class="mat-body" style="font-size: 25px">This is your personal rating board.  When criteria are assigned to you for rating, they will appear here.</p>
+      <!-- <p class="mat-body" style="font-size: 15px">HSO is a registered trademark of Health Standards Organization.</p> 
+           <p class="mat-body" style="font-size: 15px">OnBoard is an unregistered trademark of Health Standards Organization.</p> -->
+    </div>
+    <ng-template #paginator>
+      <mat-paginator [length]="resultsLength"
+                     [pageIndex]="pageIndex"
+                     [pageSize]="pageSize"
+                     [pageSizeOptions]="[5,25,50,100]"
+                     (page)="changePage($event)">
+      </mat-paginator>
+    </ng-template>
+
+import { formatDate, ViewportScroller } from '@angular/common';
+import { Component, Inject, LOCALE_ID, OnInit, QueryList, ViewChild, ViewChildren, AfterViewInit } from '@angular/core';
+import { MatAutocompleteTrigger, MatChipInputEvent, MatDialog, PageEvent } from '@angular/material';
+import { ActivatedRoute, Router } from '@angular/router';
+import { IUser, Principal } from 'app/core';
+import { SubmitDialogComponent } from 'app/rating-board/dialogs/submit-dialog/submit.dialog.component';
+import { SiteBoardComponent } from 'app/rating-board/site-board/site-board.component';
+import { AssessmentService } from 'app/services/assessment.service';
+import { ClinicalServiceService } from 'app/services/clinical-service.service';
+import { CriterionRatingService } from 'app/services/criterion-rating.service';
+import { RatingAssignmentService } from 'app/services/rating-assignment.service';
+import { SiteService } from 'app/services/site.service';
+import { AssessmentType, IAssessment } from 'app/shared/model/assessment.model';
+import { ISite } from 'app/shared/model/site.model';
+import { Debounce } from 'lodash-decorators';
+import * as moment from 'moment';
+import { JhiAlertService } from 'ng-jhipster';
+import { ToastrService } from 'ngx-toastr';
+import { BehaviorSubject, Observable } from 'rxjs';
+import 'rxjs/add/operator/map';
+import { map, switchMap, tap } from 'rxjs/operators';
+import { UserPreferencesService } from 'app/services/user-preferences.service';
+import { PageHelpService } from 'app/services/page-help.service';
+import { ConfirmationDialogComponent } from 'app/shared/confirmation-dialog/confirmation.dialog.component';
+import { HelpId } from 'app/shared/constants/page-help.constants';
+
+
+export const DEFAULT_PARAMS = {
+    assessmentType: AssessmentType.ATTESTATION,
+    projection: 'withSite',
+    page: 0,
+    size: 10
+};
+
+@Component({
+    selector: 'hso-rating-board',
+    templateUrl: './rating-board.component.html',
+    styleUrls: ['rating-board.scss']
+})
+export class RatingBoardComponent implements OnInit {
+
+    static readonly HELP_PAGE_ID = HelpId.RATING_BOARD_COMPONENT;
+    
+    selectedFilters = [];
+    completableSites = new BehaviorSubject<ISite[]>([]);
+    selectedSites = [];
+
+    resultsLength = 0;
+    pageIndex = 0;
+    pageSize = 25;
+    
+    textFilter = '';
+
+    currentUser: IUser;
+
+    params: any;
+
+    assessments: Observable<IAssessment[]>;
+
+    @ViewChild('siteChipInput') siteChipInput;
+    
+    @ViewChildren('siteBoard') private siteBoards: QueryList<SiteBoardComponent>;
+
+    constructor(
+        private criterionRatingService: CriterionRatingService,
+        private clinicalServiceService: ClinicalServiceService,
+        private ratingAssignmentService: RatingAssignmentService,
+        @Inject(LOCALE_ID) private locale: string,
+        public dialog: MatDialog,
+        private alertService: JhiAlertService,
+        private assessmentService: AssessmentService,
+        private principal: Principal,
+        private viewportScroller: ViewportScroller,
+        private route: ActivatedRoute,
+        private router: Router,
+        private toastr: ToastrService,
+        private siteService: SiteService,
+        private userPreferencesService: UserPreferencesService,
+        private pageHelpService: PageHelpService
+    ) {
+        this.principal.identity().then(id => {
+            this.currentUser = id;
+
+            this.assessments = this.route.queryParams.pipe(
+                tap(params => { this.selectedFilters = []; }),
+                map(params =>  ({...DEFAULT_PARAMS, ...params} as any)),
+                tap(params => {
+                    if (params.HIGH_PRIORITY) {
+                        // todo update params
+                        params.priority = 'HIGH';
+                        this.selectedFilters.push('HIGH_PRIORITY');
+                    }
+                    if (params.NOT_SUBMITTED) {
+                        params.submitted = false;
+                        this.selectedFilters.push('NOT_SUBMITTED');
+                    }
+                    
+                    if (params.READY_TO_ATTEST) {
+                        params.submitted = false;
+                        params.childSubmitted = true;
+                        this.selectedFilters.push('READY_TO_ATTEST');
+                    }
+                    if (params.READY_TO_RATE) {
+                        params.submitted = false;
+                        params.noChildren = true;
+                        this.selectedFilters.push('READY_TO_RATE');
+                    }
+
+                    if (params.ON_SITE) {
+                        params.criteriaAssessmentMethod = 'ON_SITE';
+                        this.selectedFilters.push('ON_SITE');
+                    }
+
+                    if (params.ATTESTABLE) {
+                        params.criteriaAssessmentMethod = 'ATTESTATION';
+                        this.selectedFilters.push('ATTESTABLE');
+                    }
+                    
+                    if (params.ROP) {
+                        params.isRop = true;
+                        this.selectedFilters.push('ROP');
+                    }
+
+                    if (params.siteIds) {
+                        this.siteService.findByIdIn(params.siteIds).subscribe(response => {
+                            this.selectedSites = response.body._embedded.sites;
+                        });
+                    } else {
+                        this.selectedSites = [];
+                    }
+
+                    if (params.criterionTextFilter) {
+                        this.textFilter = params.criterionTextFilter;
+
+                    }
+                    params.assigneeId = this.currentUser.id;
+                    this.params = params;
+                    
+                }),
+                switchMap(params => this.assessmentService.sdrFindAll(params)),
+                tap(response => {
+                    // todo right here
+                    this.resultsLength = response.body.page.totalElements;
+                    this.pageSize = response.body.page.size;
+                    this.pageIndex = response.body.page.number -1;
+                }),
+                map(response => response.body._embedded.assessments as IAssessment[]),
+                map(assessments => assessments.sort((a,b) => {
+                    if (a.site.name < b.site.name) { return -1;}
+                    if (a.site.name > b.site.name) { return 1;}
+                    return 0;
+                })),
+                map((assessments: IAssessment[]) => assessments.map(assessment => ({...assessment, 'hidden': assessments.length !=1 || !assessment.open})) as IAssessment[])
+            );
+        });
+
+
+    }
+                                         
+
+    isFilterSelected(filter: string): boolean {
+        return this.selectedFilters.findIndex((elt) => elt === filter) > -1;
+    }
+
+    isAnyFilterSelected(filters: string[]): boolean {
+        return this.selectedFilters.findIndex((elt) => filters.includes(elt)) > -1;
+    }
+    
+    changeSearch(otherParams?: any) {
+        let params = {} as any;
+        if (this.textFilter.trim().length >0) {
+            params.criterionTextFilter = this.textFilter.trim();
+        }
+
+        if (this.isFilterSelected('HIGH_PRIORITY')) {
+            params.HIGH_PRIORITY = true;
+            // todo
+        }
+
+        if (this.isFilterSelected('NOT_SUBMITTED')) {
+            params.NOT_SUBMITTED = true;
+        }
+        
+        if (this.isFilterSelected('READY_TO_ATTEST')) {
+            params.READY_TO_ATTEST = true;
+            // TODO
+        }
+
+        if (this.isFilterSelected('READY_TO_RATE')) {
+            params.READY_TO_RATE = true;
+            // TODO
+        }
+
+        if (this.isFilterSelected('ROP')) {
+            params.ROP = true;
+        }
+
+        if (this.isFilterSelected('ATTESTABLE')) {
+            params.ATTESTABLE = true;
+        }
+
+        if (this.isFilterSelected('ON_SITE')) {
+            params.ON_SITE = true;
+        }
+
+        if (this.selectedSites.length > 0) {
+            params.siteIds = this.selectedSites.map(site => site.id).join(",");
+        }
+
+        if (otherParams) {
+            params = {...params, ...otherParams};
+        }
+
+        params.refresh = new Date().getTime();
+
+        // TODO: other stuff!
+        this.router.navigate(['/rating-board'], {
+            queryParams: params,
+            queryParamsHandling: ''
+        });
+    }
+
+    changePage($event: PageEvent) {
+        this.changeSearch({
+            'page': $event.pageIndex +1,
+            'size': $event.pageSize
+        });
+    }
+    
+    ngOnInit() {
+        this.principal.identity().then(id => {
+            this.currentUser = id;
+        });
+    }
+
+    reload(assessment) {
+        this.toastr.warning('The assessment that you are working on was changed by another user and has been reloaded.', 'Reloaded Assessment')
+        // force a reload by touching the query params
+        this.changeSearch({'reload' : Date.now()});
+    }
+
+    openSubmitDialog() {
+        this.dialog
+            .open(SubmitDialogComponent, {
+                width: '70%',
+                height: '400px',
+                data: {
+                },
+                disableClose: true
+            })
+            .afterClosed()
+            .subscribe(response => {
+                if (response.submit) {
+                    this.submit();
+                }
+            });
+    }
+
+    translationKeyFromFilterValue(filterValue: string): string {
+        return `RATING-BOARD.FILTERS.${filterValue.replace(/_/g, '-')}`;
+    }
+
+
+    addSiteChip(newSite: ISite): void {
+        this.selectedSites.push(newSite);
+        this.siteChipInput.nativeElement.value = '';
+        this.updateCompletableSites('');
+    }
+
+    handleMatChipInputEnd($event: MatChipInputEvent, trigger: MatAutocompleteTrigger) {
+        const input = $event.input;
+        if (this.completableSites.value.length === 1) {
+            this.selectedSites.push(this.completableSites.value[0]);
+            trigger.closePanel();
+            input.value = '';
+        }
+    }
+
+    displaySite(site?: ISite): string {
+        return site ? site.name : '';
+    }
+
+    removeSite(removedSite: ISite): void {
+        this.selectedSites = this.selectedSites.filter(site => site.id !== removedSite.id);
+    }
+
+
+    @Debounce(200)
+    updateCompletableSites(prefix: string): void {
+        if (prefix.length < 3) {
+            this.completableSites.next([]);
+        } else {
+            this.siteService.findByNameIgnoreCaseContaining(prefix)
+                .subscribe(response => {
+                    this.completableSites.next(response.body._embedded.sites);
+                });
+        }
+    }
+
+    
+    
+
+    submit() {
+        this.siteBoards.forEach(siteBoard => siteBoard.submit());
+    }
+
+    copyDelegatedRatings() {
+        this.siteBoards
+            .filter(siteBoard => !siteBoard.assessment['hidden'])
+            .forEach(siteBoard => siteBoard.copyDelegatedRatings());
+    }
+
+    clearUnsubmittedRatings() {
+        const dialogRef = this.dialog.open(ConfirmationDialogComponent, {
+            data: {
+                title: 'Are you sure?',
+                message: 'Are you sure you want to clear all unsubmitted ratings?'
+            }
+        });
+
+        dialogRef.afterClosed().subscribe(isConfirmed => { 
+            if (isConfirmed) {
+                this.siteBoards.forEach(siteBoard => {
+                    siteBoard.clearUnsubmittedRatings()
+                });
+                this.toastr.success('Unsubmitted ratings have been cleared.', 'Cleared!');
+            }
+        });
+    }
+}
+
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import { Routes, RouterModule } from '@angular/router';
+
+import { StructureSharedModule } from 'app/shared';
+import { RATING_BOARD_ROUTE, RatingBoardComponent } from './';
+import { SiteBoardComponent } from 'app/rating-board/site-board/site-board.component';
+import { GuidelinesDialogComponent } from 'app/shared/criteria-management/guidelines-dialog/guidelines.dialog.component';
+import {
+    CommentsDialogComponent
+} from 'app/rating-board/dialogs/comments-dialog/comments.dialog.component';
+import { SubmitDialogComponent } from 'app/rating-board/dialogs/submit-dialog/submit.dialog.component';
+import { ConfirmAbortChangesDialogComponent } from 'app/rating-board/dialogs/comments-dialog/confirm-abort-changes.dialog.component';
+import { ConfirmationDialogComponent } from 'app/shared/confirmation-dialog/confirmation.dialog.component';
+import { ComplianceTestCommentsDialogComponent } from 'app/rating-board/dialogs/comments-dialog/compliance-test-comments.dialog.component';
+
+const RatingBoardRoutes: Routes = [RATING_BOARD_ROUTE];
+
+@NgModule({
+    imports: [
+        StructureSharedModule,
+        RouterModule.forChild(RatingBoardRoutes)
+    ],
+    declarations: [
+        RatingBoardComponent,
+        SiteBoardComponent,
+        CommentsDialogComponent,
+        SubmitDialogComponent,
+        ConfirmAbortChangesDialogComponent,
+        ComplianceTestCommentsDialogComponent
+    ],
+    entryComponents: [
+        GuidelinesDialogComponent,
+        CommentsDialogComponent,
+        SubmitDialogComponent,
+        ConfirmAbortChangesDialogComponent,
+        ConfirmationDialogComponent,
+        ComplianceTestCommentsDialogComponent
+    ],
+    schemas: [CUSTOM_ELEMENTS_SCHEMA]
+})
+export class RatingBoardModule {}
+
+import { Route } from '@angular/router';
+
+import { UserRouteAccessService } from 'app/core';
+import { RatingBoardComponent } from './';
+
+export const RATING_BOARD_ROUTE: Route = {
+    path: '',
+    component: RatingBoardComponent,
+    data: {
+        authorities: ['ROLE_USER'],
+        pageTitle: 'structureApp.criteriaGroup.home.title'
+    },
+    canActivate: [UserRouteAccessService]
+};
